@@ -20,6 +20,10 @@
  * **Reading the weekly schedule. NOTE: Due on date listed**
  * Final Draft will be on github by Tue, Sep 9. I will also hand out hard copies.
 
+
+### Discuss Homework
+
+
 ### Why is this class important?
 * Visual interfaces are all around us. 
 * Visual communication does make a difference and it communicates.
@@ -27,12 +31,15 @@
 * It's about clarity, meaning, and emotion.
 * Discuss course & learning objectives in syllabus
 
+
 ### Reading Responses
 * Learning (Your First Job) by Leamnson
 * My teaching tenets
 
+
 ### Show & Tell
 * Nicholas Felton - Collin & Max
+
 
 ### Demos
 * [Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)
@@ -44,7 +51,9 @@
   * [0to255] (http://0to255.com)
   * [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)
  
+
 ### <a href="dm3193_class_exercise_color.md"></a>Class Exerices: Color
+
 
 ### Helvetica Screening** *(If time)*
 
