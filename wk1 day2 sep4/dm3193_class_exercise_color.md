@@ -9,11 +9,11 @@
 
 ## Class Exercise: Color
 
-##### Post to wordpress, an image or illustration which contains your favorite color palette (images.google.com)
+* **Post to wordpress, an image or illustration which contains your favorite color palette (images.google.com)**
 
-##### Discuss the image’s color context, also known as value & intensity
-* Shade, Tint, or Saturation (Consult GD 74)
+* **Discuss the image’s color context, also known as value & intensity**
+  * Shade, Tint, or Saturation (Consult GD 74)
 
-##### Discuss the image’s color context
-* Primary, Secondary, Tertiary, Complementary, and Analogous (Consult GD 73)
+* Discuss the image’s color context
+  * Primary, Secondary, Tertiary, Complementary, and Analogous (Consult GD 73)
 
