@@ -55,13 +55,16 @@
  
 
 #####<a href="dm3193_class_exercise_color.md">Class Exerices: Color</a>
+* Ran out of time. 
+* Complete as Homework.
+* Utilize Wordpress or Basecamp to post your image and corresponding text.
 
 
-#####Helvetica Screening *(If time)*
+~~#####Helvetica Screening *(If time)*~~ NO TIME
 
 #####Ticket to Leave
 * What are the three most important points you learned today in class? 
-* What concept(s) confuses you from today’s lecture or exercises? (This is will give you a clue to what you should study before the next class.)
+* What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)
 
 
 
