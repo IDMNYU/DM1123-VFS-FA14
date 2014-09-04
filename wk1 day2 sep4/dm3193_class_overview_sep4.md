@@ -9,7 +9,7 @@
 
 ## VFS 2nd Class (Sep 4)
 
-### Housekeeping
+#####Housekeeping
 * Basecamp
  * Victoria & anyone else - switch your first and last name on Basecamp if incorrect
  * FYI: When you add to the calendar or write board everybody in the class can see it.
@@ -21,10 +21,10 @@
  * Final Draft will be on github by Tue, Sep 9. I will also hand out hard copies.
 
 
-### Discuss Homework
+#####Discuss Homework
 
 
-### Why is this class important?
+#####Why is this class important?
 * Visual interfaces are all around us. 
 * Visual communication does make a difference and it communicates.
 * It is way more than about making something "look pretty."
@@ -32,16 +32,16 @@
 * Discuss course & learning objectives in syllabus
 
 
-### Reading Responses
+#####Reading Responses
 * Learning (Your First Job) by Leamnson
 * My teaching tenets
 
 
-### Show & Tell
+#####Show & Tell
 * Nicholas Felton - Collin & Max
 
 
-### Demos
+#####Demos
 * [Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)
 * Color
   * [Kuler] (https://kuler.adobe.com/explore)
@@ -52,10 +52,10 @@
   * [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)
  
 
-### <a href="dm3193_class_exercise_color.md"></a>Class Exerices: Color
+#####<a href="dm3193_class_exercise_color.md"></a>Class Exerices: Color
 
 
-### Helvetica Screening** *(If time)*
+#####Helvetica Screening** *(If time)*
 
 
 
