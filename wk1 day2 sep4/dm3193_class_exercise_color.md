@@ -14,6 +14,6 @@
 * **Discuss the image’s color context, also known as value & intensity**
   * Shade, Tint, or Saturation (Consult GD 74)
 
-* Discuss the image’s color context
+* **Discuss the image’s color context**
   * Primary, Secondary, Tertiary, Complementary, and Analogous (Consult GD 73)
 
