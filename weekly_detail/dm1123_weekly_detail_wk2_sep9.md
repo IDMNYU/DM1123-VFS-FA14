@@ -27,11 +27,11 @@
   <td valign="top">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
+  <li>Show &amp; Tell due: David Carson</li>
+  <li>Assign remaining creator Show &amp; Tells as extra credit
   <li>Final Syllabus on <a href="../dm1123_vfs_syllabus.md" target="_blank">Github</a> (Decided not to print to save trees)
   <li>Discuss why the reading Learning (Your First Job) was assigned</li>
   <li>Respond to selected tickets to leave
-  <li>Show &amp; Tell due: David Carson</li>
-  <li>Assign remaining creator Show &amp; Tells as extra credit
   <li>BxMC URLs Rollcall
   <li>Demo: Wordpress continued</li>
   <li></li>
