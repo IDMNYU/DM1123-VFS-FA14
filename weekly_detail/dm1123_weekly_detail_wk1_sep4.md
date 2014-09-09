@@ -79,8 +79,6 @@
 <li> Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
 </ul>
 
-<h5><s>Helvetica Screening (If time)</s>NO TIME</h5>
-
 <h5>Ticket to Leave</h5>
 <ul>
 <li> What are the three most important points you learned today in class? </li>

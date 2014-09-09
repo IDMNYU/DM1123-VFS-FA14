@@ -27,7 +27,8 @@
   <td valign="top">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
-  <li>SHOW &amp; TELLS DUE: David Carson</li>
+  <li>SHOW &amp; TELL DUE: David Carson</li>
+  <li>DEMO: WORDPRESS continued</li>
   <li>REVIEW CLASS EXERCISE: Color</li>
   <li>CLASS EXERCISE: Typefaces</li>
   </ul>
@@ -35,6 +36,9 @@
   </td>
   <td valign="top"><strong>Sep 11</strong><br>
   <h5>SCREENING: TYPE</h5>
+    <ul>
+    <li>DEMO: Adobe Illustrator</li>
+    </ul>
   </td>
 </tr>
 
@@ -62,7 +66,7 @@
 
 <!-- do -->
 <tr>
-  <td valign="top">2</td>
+  <td valign="top">do</td>
   <td valign="top" colspan="2">
   <h4>Lynda.com Tutorials</h4>
   <ul>
