@@ -16,13 +16,13 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-<td>1</td>
-<td><strong>Sep 3</strong><br>
+<td valign="top">1</td>
+<td valign="top"><strong>Sep 3</strong><br>
 <a href="class_exercises/dm3193_class_exercise_first_day">Class Exercises: First Day of Class</a><br>Group Syllabus Review</td>
-<td><strong>Sep 3</strong><br>
-<h3>Housekeeping</h3>
+<td valign="top"><strong>Sep 3</strong><br>
+<h4>Housekeeping</h4>
 <ul>
-<li> [Adobe Creative Cloud - Student and Teacher Tab] (https://creative.adobe.com/plans)</li>
+<li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Basecamp</li>
      <uL>
      <li>Victoria &amp; anyone else - switch your first and last name on Basecamp if incorrect</li>
@@ -39,9 +39,9 @@
  <li>Final Draft will be on github by Tue, Sep 9. I will also hand out hard copies.</li>
 </ul>
 
-<h3>Discuss Homework</h3>
+<h4>Discuss Homework</h4>
 
-<h3>Why is this class important?<h3>
+<h4>Why is this class important?</h4>
 <ul>
 <li> Visual interfaces are all around us. </li>
 <li> Visual communication does make a difference and it communicates.</li>
@@ -50,17 +50,17 @@
 <li> Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<h3>Reading Responses</h3>
+<h4>Reading Responses</h4>
 <ul>
 <li> Learning (Your First Job) by Leamnson</li>
 </ul>
 
-<h3>Show &amp; Tell</h3>
+<h4>Show &amp; Tell</h4>
 <ul>
 <li> Nicholas Felton - Collin &amp; Max</li>
 </ul>
 
-<h3>Demos</h3>
+<h4>Demos</h4>
 <ul>
 <li> [Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
 <li> Color</li>
@@ -71,16 +71,16 @@
   <li> [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
-<h3><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h3>
+<h4><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h4>
 <ul>
 <li> Ran out of time to do as class exercise. </li>
 <li> Complete as Homework.</li>
 <li> Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
 </ul>
 
-<h3><s>Helvetica Screening (If time)</s>NO TIME</h3>
+<h4><s>Helvetica Screening (If time)</s>NO TIME</h4>
 
-<h3>Ticket to Leave</h3>
+<h4>Ticket to Leave</h4>
 <ul>
 <li> What are the three most important points you learned today in class? </li>
 <li> What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)</li>
