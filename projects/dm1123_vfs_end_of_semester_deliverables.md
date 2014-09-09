@@ -1,4 +1,4 @@
-# # DM-UY 1123 Visual Foundation Studio
+# DM-UY 1123 Visual Foundation Studio
 
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 

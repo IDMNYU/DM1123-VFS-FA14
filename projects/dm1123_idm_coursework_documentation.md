@@ -1,4 +1,4 @@
-# # DM-UY 1123 Visual Foundation Studio
+# DM-UY 1123 Visual Foundation Studio
 
 ![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
 #### Integrated Digital Media • Technology, Culture & Society Department 
@@ -8,10 +8,8 @@
 
 ---
 
+## IDM COURSEWORK DOCUMENTATION
 
-## PROJECTS & ASSIGNMENTS
-
-### IDM COURSEWORK DOCUMENTATION
 Set up your class website using wordpress at http://sites.bxmc.poly.edu/~yourfirstnamelastname/vfs
 Add your blog URL to basecamp underneath, MESSAGES > IDM coursework documentation, as a comment. 
 
