@@ -17,9 +17,12 @@
 </tr>
 <tr>
 <td valign="top">1</td>
-<td valign="top"><strong>Sep 3</strong><br>
-<a href="class_exercises/dm3193_class_exercise_first_day">Class Exercises: First Day of Class</a><br>Group Syllabus Review</td>
-<td valign="top"><strong>Sep 3</strong><br>
+<td valign="top"><strong>Sep 2</strong><br>
+<ul>
+<li><a href="class_exercises/dm3193_class_exercise_first_day">Class Exercises: First Day of Class</li>
+<li>Group Syllabus Review</li>
+</ul></td>
+<td valign="top"><strong>Sep 4</strong><br>
 <h5>Housekeeping</h5>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
