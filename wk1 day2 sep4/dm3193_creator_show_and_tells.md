@@ -19,7 +19,7 @@ Aleksander Rodchenko (composition & photography) - Avi & Naomi - Sep 16
 
 Andy Warhol (image) - Elanur & Alexis - Sep 16
 
-**Tibor Kalman (image) - Sep 25**
+**Tibor Kalman (image) - Michael Li & Sep 25**
 
 David Carson (type & image) - Melisa & Omayeli -  Sep 9
 
@@ -27,9 +27,9 @@ Barbara Krueger (type & image) - Indira & Jenny - Sep 16
 
 Stefan Sagmeister (type & image) - Larysa & Wenqi - Sep 23
 
-**Paula Scher (type & image) - Sep 23**
+**Paula Scher (type & image) - Daric & Sep 23**
 
-Shepard Fairey (semiotics) - Hillary and Kevin - Oct 2
+Shepard Fairey (semiotics) - Hillary & Kevin - Oct 2
 
 Saul Bass (for logos, not film titles) - Boyong & Hornby - Oct 2
 
