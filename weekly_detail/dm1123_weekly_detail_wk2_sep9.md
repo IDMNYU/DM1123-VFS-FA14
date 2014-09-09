@@ -31,14 +31,14 @@
   <li>Demo: Wordpress continued</li>
   <li>Review class exercise: Color</li>
   <li>Class exercise: Typefaces</li>
-  <li><a href="projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
   </td>
   <td valign="top"><h5>SCREENING: TYPE</h5>
     <ul>
     <li>Demo: Adobe Illustrator</li>
-    <li><a href="projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
 </tr>
@@ -61,7 +61,7 @@
     </li>
   </td>
   
-  <td valign="top">Catch up on reading if behind or review reading</td>
+  <td valign="top"><h4>Catch up on reading if behind or review reading</h4></td>
 </tr>
 
 <!-- do -->
