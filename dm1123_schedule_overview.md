@@ -26,8 +26,8 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Class Exercise: Components-Type</a></td>
-        <td><a href="dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Screening: Type</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Class Exercise: Components-Type</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Screening: Type</a></td>
     </tr>
     <tr>
         <td>3</td>
@@ -96,7 +96,7 @@
     <tr>
         <td>15</td>
         <td>Dec 9<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br>PDF or BOOK 1st DRAFT</td>
+        <td>Dec 11<br>PDF or BOOK 1st DRAFT<strong><i><br>Make Up Class for Oct. 9</i></strong></td>
     </tr>
     <tr>
         <td>16</td>
