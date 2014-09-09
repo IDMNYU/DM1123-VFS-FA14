@@ -26,17 +26,17 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="dm1123_weekly_detail_wk2_sep9.md"></a>Sep 9<br>Class Exercise: Components-Type</a></td>
-        <td><a href="dm1123_weekly_detail_wk2_sep9.md"></a>Sep 11<br>Screening: Type</a></td>
+        <td><a href="dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Class Exercise: Components-Type</a></td>
+        <td><a href="dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Screening: Type</a></td>
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 16<br>Class Exercise: Components-Image<br><br><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
+        <td>Sep 16<br>Class Exercise: Components-Image<br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
         <td>Sep 18<br>Screening: Image</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 23<br>Class Exercise: Composition<br><br><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></td>
+        <td>Sep 23<br>Class Exercise: Composition<br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
         <td>Sep 25<br>Class Exercise: Concept</td>
     </tr>
     <tr>
