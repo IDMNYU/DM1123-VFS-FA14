@@ -27,6 +27,8 @@
   <td valign="top">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
+  <li>Discuss why the reading Learning (Your First Job) was assigned</li>
+  <li>Respond to selected tickets to leave
   <li>Show &amp; Tell due: David Carson</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <li>BxMC URLs Rollcall
@@ -75,9 +77,10 @@
   <h4>Lynda.com Tutorials</h4>
   Based on your current skill levels in these programs.
   <ul>
-  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley
-  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)
-  <li>Lynda.com: InDesign CC Essential Training with David Blatner
+  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
+  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
+  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
+  <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
 </tr>
 </table>

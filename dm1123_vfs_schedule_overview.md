@@ -23,17 +23,17 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>Sep 2<br>Overview of Course</td>
-        <td>Sep 4<br>Class Exercise: Components-Color</a></td>
+        <td><a href="">Sep 2<br>Overview of Course</a></td>
+        <td><a href="">Sep 4<br>Class Exercise: Components-Color</a></td>
         <td>Colorzilla / Kuler</td>
         <td></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sep 9<br>Class Exercise: Components-Type</td>
-        <td>Sep 11<br>Screening: Type</td>
+        <td><a href="">Sep 9<br>Class Exercise: Components-Type</a></td>
+        <td><a href="">Sep 11<br>Screening: Type</a></td>
         <td>Adobe Illustrator / Helvetica</td>
-        <td>Illustrator CC Essential Training with Justin Seeley</td>
+        <td>Lynda.com: Illustrator CC Essential Training with Justin Seeley</td>
     </tr>
     <tr>
         <td>3</td>
