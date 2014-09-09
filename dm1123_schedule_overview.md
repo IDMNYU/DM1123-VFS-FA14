@@ -26,21 +26,21 @@
         <td>Sep 2<br>Overview of Course</td>
         <td>Sep 4<br>Class Exercise: Components-Color</a></td>
         <td>Colorzilla / Kuler</td>
-        <td></td>
+        <td>Illustrator CC Essential Training with Justin Seeley</td>
     </tr>
     <tr>
         <td>2</td>
-        <td>Sep 9<br>Class Exercise: Components-Type</td>
-        <td>Sep 11<br>Screening: Type</td>
+        <td><a href="" target="_blank"></a>Sep 9<br>Class Exercise: Components-Type</td>
+        <td><a href="" target="_blank"></a>Sep 11<br>Screening: Type</td>
         <td>Adobe Illustrator / Helvetica</td>
-        <td>Illustrator CC Essential Training with Justin Seeley</td>
+        <td>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</td>
     </tr>
     <tr>
         <td>3</td>
         <td>Sep 16<br>Class Exercise: Components-Image<br><br><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
         <td>Sep 18<br>Screening: Image</td>
         <td>Adobe Photoshop / Exit Through the Gift Shop</td>
-        <td>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</td>
+        <td>Lynda.com: InDesign CC Essential Training with David Blatner</td>
     </tr>
     <tr>
         <td>4</td>

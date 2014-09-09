@@ -51,7 +51,7 @@
 <li> Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<h5>Reading Responses</h5>
+<h5>Discuss Reading Responses</h5>
 <ul>
 <li> Learning (Your First Job) by Leamnson</li>
 </ul>
