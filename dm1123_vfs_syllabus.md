@@ -187,11 +187,11 @@ Typographic Systems
 * Adobe Indesign
 * Adobe Acrobat
 
-### [RECOMMENDED RESOURCES](dm1123_recommended_resources.md)
+### [RECOMMENDED RESOURCES](dm1123_vfs_recommended_resources.md)
 See Appendix
 
-### [PROJECTS &amp; ASSIGNMENTS](dm1123_projects.md)
+### [PROJECTS &amp; ASSIGNMENTS](dm1123_vfs_projects.md)
 See Appendix
 
-### [SCHEDULE OVERVIEW GRID] (dm1123_schedule_overview.md)
+### [SCHEDULE OVERVIEW GRID] (dm1123_vfs_schedule_overview.md)
 See Appendix

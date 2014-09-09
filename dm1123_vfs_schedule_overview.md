@@ -132,7 +132,7 @@
     </tr>
     <tr>
         <td>16</td>
-        <td colspan="4">Dec 12-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled) 
+        <td colspan="4">Dec 12-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
 PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</strong></td>
     </tr>
 </table>
