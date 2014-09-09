@@ -15,11 +15,11 @@
 *Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
-        <th>wk</th>
-        <th>Tuesdays (Due on Date Listed)</th>
-        <th>Thursdays (Due on Date Listed)</th>
-        <th>Demos/Screenings</th>
-        <th>Lynda.com</th>
+        <th width="2%">wk</th>
+        <th width="24%">Tuesdays (Due on Date Listed)</th>
+        <th width="24%">Thursdays (Due on Date Listed)</th>
+        <th width="24%">Demos/Screenings</th>
+        <th width="24%">Lynda.com</th>
     </tr>
     <tr>
         <td>1</td>
@@ -37,14 +37,14 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>Sep 16<br><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i><br>Class Exercise: Components-Image</td>
+        <td>Sep 16<br>Class Exercise: Components-Image<br><br><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></td>
         <td>Sep 18<br>Screening: Image</td>
         <td>Adobe Photoshop / Exit Through the Gift Shop</td>
         <td>InDesign CC Essential Training with David Blatner</td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 23<br><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i><br>Class Exercise: Composition</td>
+        <td>Sep 23<br>Class Exercise: Composition<br><br><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></td>
         <td>Sep 25<br>Class Exercise: Concept</td>
         <td>Adobe Indesign</td>
         <td>InDesign CC Essential Training with David Blatner</td>
