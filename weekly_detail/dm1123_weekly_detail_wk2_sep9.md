@@ -24,7 +24,7 @@
 <!-- class -->
 <tr>
   <td valign="top">class</td>
-  <td valign="top">
+  <td valign="top" width="48%">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
   <li>Show &amp; Tell due: David Carson</li>
@@ -42,7 +42,7 @@
   </ul>
 
   </td>
-  <td valign="top"><h5>SCREENING: TYPE</h5>
+  <td valign="top" width="48%"><h5>SCREENING: TYPE</h5>
     <ul>
     <li>Respond to selected tickets to leave
     <li>Demo: Adobe Illustrator</li>
