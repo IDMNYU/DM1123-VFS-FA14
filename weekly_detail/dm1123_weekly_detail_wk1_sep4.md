@@ -20,7 +20,7 @@
 <td valign="top"><strong>Sep 3</strong><br>
 <a href="class_exercises/dm3193_class_exercise_first_day">Class Exercises: First Day of Class</a><br>Group Syllabus Review</td>
 <td valign="top"><strong>Sep 3</strong><br>
-<h4>Housekeeping</h4>
+<h5>Housekeeping</h5>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Basecamp</li>
@@ -38,10 +38,11 @@
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
  <li>Final Draft will be on github by Tue, Sep 9. I will also hand out hard copies.</li>
 </ul>
+</ul>
 
-<h4>Discuss Homework</h4>
+<h5>Discuss Homework</h5>
 
-<h4>Why is this class important?</h4>
+<h5>Why is this class important?</h5>
 <ul>
 <li> Visual interfaces are all around us. </li>
 <li> Visual communication does make a difference and it communicates.</li>
@@ -50,17 +51,17 @@
 <li> Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<h4>Reading Responses</h4>
+<h5>Reading Responses</h5>
 <ul>
 <li> Learning (Your First Job) by Leamnson</li>
 </ul>
 
-<h4>Show &amp; Tell</h4>
+<h5>Show &amp; Tell</h5>
 <ul>
 <li> Nicholas Felton - Collin &amp; Max</li>
 </ul>
 
-<h4>Demos</h4>
+<h5>Demos</h5>
 <ul>
 <li> [Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
 <li> Color</li>
@@ -71,16 +72,16 @@
   <li> [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
-<h4><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h4>
+<h5><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h5>
 <ul>
 <li> Ran out of time to do as class exercise. </li>
 <li> Complete as Homework.</li>
 <li> Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
 </ul>
 
-<h4><s>Helvetica Screening (If time)</s>NO TIME</h4>
+<h5><s>Helvetica Screening (If time)</s>NO TIME</h5>
 
-<h4>Ticket to Leave</h4>
+<h5>Ticket to Leave</h5>
 <ul>
 <li> What are the three most important points you learned today in class? </li>
 <li> What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)</li>
