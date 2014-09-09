@@ -16,10 +16,10 @@
 <table>
     <tr>
         <th width="2%">wk</th>
-        <th width="24%">Tuesdays (Due on Date Listed)</th>
-        <th width="24%">Thursdays (Due on Date Listed)</th>
-        <th width="24%">Demos/Screenings</th>
-        <th width="24%">Lynda.com</th>
+        <th width="28%">Tuesdays (Due on Date Listed)</th>
+        <th width="28%">Thursdays (Due on Date Listed)</th>
+        <th width="20%">Demos/Screenings</th>
+        <th width="20%">Lynda.com</th>
     </tr>
     <tr>
         <td>1</td>
