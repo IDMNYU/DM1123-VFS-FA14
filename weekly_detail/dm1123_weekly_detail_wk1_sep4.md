@@ -54,7 +54,7 @@
   * [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)
  
 
-#####<a href="dm3193_class_exercise_color.md">Class Exercise: Color</a>
+#####<a href="class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a>
 * Ran out of time to do as class exercise. 
 * Complete as Homework.
 * Utilize Wordpress or Basecamp to post your image and corresponding text.
