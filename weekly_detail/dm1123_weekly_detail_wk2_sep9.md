@@ -44,6 +44,7 @@
   </td>
   <td valign="top"><h5>SCREENING: TYPE</h5>
     <ul>
+    <li>Respond to selected tickets to leave
     <li>Demo: Adobe Illustrator</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
