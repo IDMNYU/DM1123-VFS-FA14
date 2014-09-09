@@ -28,7 +28,11 @@
   <h5>COMPONENTS: TYPE</h5>
   <ul>
   <li>Show &amp; Tell due: David Carson</li>
+  <li>Assign remaining creator Show &amp; Tells as extra credit
+  <li>BxMC URLs Rollcall
   <li>Demo: Wordpress continued</li>
+  <li></li>
+  <li>Review reading (Type vs. Typeface vs. Font)</li>
   <li>Review class exercise: Color</li>
   <li>Class exercise: Typefaces</li>
   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
@@ -52,7 +56,7 @@
     <li>What is leading?
     <li>What is kerning?
     <li>What is tracking?
-    <li>What is a font family?
+    <li>What is a type family?
     <li>What is the anatomy of a letter? 
     </ul>
   <h4>Type On Screen</h4>
@@ -61,7 +65,7 @@
     </li>
   </td>
   
-  <td valign="top"><h4>Catch up on reading if behind or review reading</h4></td>
+  <td valign="top"><h4>Catch up on reading if behind or<br>Review reading</h4></td>
 </tr>
 
 <!-- do -->

@@ -9,17 +9,17 @@
 
 ## Creator Show & Tell Assignments
 
-Peter Saville (music / punk aesthetic) - Shira & Victoria - Oct 30
+**Peter Saville (music / punk aesthetic) - Shira & ?** - Oct 30
 
 Chip Kidd (book jackets) - Alice & Tasmiur - Oct 30
 
-**Josef Muller-Brockman (composition) - Sep 23**
+**Josef Muller-Brockman (composition / the grid) - Sep 23**
 
 Aleksander Rodchenko (composition & photography) - Avi & Naomi - Sep 16
 
 Andy Warhol (image) - Elanur & Alexis - Sep 16
 
-**Tibor Kalman (image) - Michael Li & Sep 25**
+**Tibor Kalman (concept / image) - Michael Li & ? Sep 25**
 
 David Carson (type & image) - Melisa & Omayeli -  Sep 9
 
@@ -27,10 +27,10 @@ Barbara Krueger (type & image) - Indira & Jenny - Sep 16
 
 Stefan Sagmeister (type & image) - Larysa & Wenqi - Sep 23
 
-**Paula Scher (type & image) - Daric & Sep 23**
+**Paula Scher (type & image) - Daric & ? Sep 23**
 
 Shepard Fairey (semiotics) - Hillary & Kevin - Oct 2
 
 Saul Bass (for logos, not film titles) - Boyong & Hornby - Oct 2
 
-**Art Chantry - Oct 30**
+**Art Chantry (music / punk aesthetic) - Oct 30**
