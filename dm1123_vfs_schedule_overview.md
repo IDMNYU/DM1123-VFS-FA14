@@ -30,8 +30,8 @@
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="" target="_blank"></a>Sep 9<br>Class Exercise: Components-Type</td>
-        <td><a href="" target="_blank"></a>Sep 11<br>Screening: Type</td>
+        <td>Sep 9<br>Class Exercise: Components-Type</td>
+        <td>Sep 11<br>Screening: Type</td>
         <td>Adobe Illustrator / Helvetica</td>
         <td>Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</td>
     </tr>

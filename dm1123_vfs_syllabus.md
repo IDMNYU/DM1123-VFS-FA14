@@ -176,9 +176,9 @@ Students, in addition to their regular NYU allotment, also have available to the
 
 These books (*) are available for purchase in the NYU bookstore, and will be on reserve at the NYU Schoo of Engineering library. This book (#) is available as an online book via http://bobcat.library.nyu.edu.
 
-Graphic Design: The New Basics by Ellen Lupton * #
-Type On Screen by Ellen Lupton *
-Typographic Systems
+* Graphic Design: The New Basics by Ellen Lupton * #
+* Type On Screen by Ellen Lupton *
+* Typographic Systems
 
 ### REQUIRED SOFTWARE
 
