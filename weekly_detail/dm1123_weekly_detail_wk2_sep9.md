@@ -27,17 +27,19 @@
   <td valign="top">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
-  <li>SHOW &amp; TELL DUE: David Carson</li>
-  <li>DEMO: WORDPRESS continued</li>
-  <li>REVIEW CLASS EXERCISE: Color</li>
-  <li>CLASS EXERCISE: Typefaces</li>
+  <li>Show &amp; tell due: David Carson</li>
+  <li>Demo: Wordpress continued</li>
+  <li>Review class exercise: Color</li>
+  <li>Class exercise: Typefaces</li>
+  <li><a href="projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
   </td>
   <td valign="top"><strong>Sep 11</strong><br>
   <h5>SCREENING: TYPE</h5>
     <ul>
-    <li>DEMO: Adobe Illustrator</li>
+    <li>Demo: Adobe Illustrator</li>
+    <li><a href="projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
 </tr>

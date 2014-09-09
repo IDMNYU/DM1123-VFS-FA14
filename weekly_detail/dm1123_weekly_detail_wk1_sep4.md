@@ -36,7 +36,7 @@
 <ul>
  <li>Any requests, questions, errors?</li>
  <li>Reading the weekly schedule. NOTE: Due on date listed</li>
- <li>Final Draft will be on github by Tue, Sep 9. I will also hand out hard copies.</li>
+ <li>Final Draft will be on github by Tue, Sep 9.</li>
 </ul>
 </ul>
 
@@ -44,45 +44,45 @@
 
 <h5>Why is this class important?</h5>
 <ul>
-<li> Visual interfaces are all around us. </li>
-<li> Visual communication does make a difference and it communicates.</li>
-<li> It is way more than about making something "look pretty."</li>
-<li> It's about clarity, meaning, and emotion.</li>
-<li> Discuss course &amp; learning objectives in syllabus</li>
+<li>Visual interfaces are all around us. </li>
+<li>Visual communication does make a difference and it communicates.</li>
+<li>It is way more than about making something "look pretty."</li>
+<li>It's about clarity, meaning, and emotion.</li>
+<li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
 <h5>Discuss Reading Responses</h5>
 <ul>
-<li> Learning (Your First Job) by Leamnson</li>
+<li>Learning (Your First Job) by Leamnson</li>
 </ul>
 
 <h5>Show &amp; Tell</h5>
 <ul>
-<li> Nicholas Felton - Collin &amp; Max</li>
+<li>Nicholas Felton - Collin &amp; Max</li>
 </ul>
 
 <h5>Demos</h5>
 <ul>
-<li> [Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
-<li> Color</li>
-  <li> [Kuler] (https://kuler.adobe.com/explore)</li>
-  <li> [ColorHexa](http://www.colorhexa.com)</li>
-  <li> [ColorZilla](http://www.colorzilla.com)</li>
-  <li> [0to255] (http://0to255.com)</li>
-  <li> [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
+<li>[Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
+<li>Color</li>
+  <li>[Kuler] (https://kuler.adobe.com/explore)</li>
+  <li>[ColorHexa] (http://www.colorhexa.com)</li>
+  <li>[ColorZilla] (http://www.colorzilla.com)</li>
+  <li>[0to255] (http://0to255.com)</li>
+  <li>[Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
 <h5><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h5>
 <ul>
-<li> Ran out of time to do as class exercise. </li>
-<li> Complete as Homework.</li>
-<li> Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
+<li>Ran out of time to do as class exercise. </li>
+<li>Complete as Homework.</li>
+<li>Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
 </ul>
 
 <h5>Ticket to Leave</h5>
 <ul>
-<li> What are the three most important points you learned today in class? </li>
-<li> What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)</li>
+<li>What are the three most important points you learned today in class? </li>
+<li>What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)</li>
 </ul></td>
 </tr>
 </table>
