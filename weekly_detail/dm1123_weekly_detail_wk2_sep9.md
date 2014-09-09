@@ -27,7 +27,7 @@
   <td valign="top">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
-  <li>Show &amp; tell due: David Carson</li>
+  <li>Show &amp; Tell due: David Carson</li>
   <li>Demo: Wordpress continued</li>
   <li>Review class exercise: Color</li>
   <li>Class exercise: Typefaces</li>
@@ -35,8 +35,7 @@
   </ul>
 
   </td>
-  <td valign="top"><strong>Sep 11</strong><br>
-  <h5>SCREENING: TYPE</h5>
+  <td valign="top"><h5>SCREENING: TYPE</h5>
     <ul>
     <li>Demo: Adobe Illustrator</li>
     <li><a href="projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
@@ -48,7 +47,7 @@
 <tr>
   <td valign="top">read</td>
   <td>
-  <h4>http://www.thinkingwithtype.com</h4>
+  <h4><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a></h4>
     <ul> 
     <li>What is leading?
     <li>What is kerning?
@@ -62,8 +61,7 @@
     </li>
   </td>
   
-  <td valign="top">
-  </td>
+  <td valign="top">Catch up on reading if behind or review reading</td>
 </tr>
 
 <!-- do -->
@@ -71,8 +69,9 @@
   <td valign="top">do</td>
   <td valign="top" colspan="2">
   <h4>Lynda.com Tutorials</h4>
+  Based on your current skill levels in these programs.
   <ul>
-  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)
+  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)
   <li>Lynda.com: InDesign CC Essential Training with David Blatner
   </ul></td>
