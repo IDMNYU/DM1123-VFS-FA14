@@ -31,6 +31,9 @@
   <li>Show &amp; Tell due: David Carson</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <li>Final Syllabus on <a href="../dm1123_vfs_syllabus.md" target="_blank">Github</a> (Decided not to print to save trees)
+    <ul>
+    <li><a href="http://gitprint.com" target="_blank">http://gitprint.com</a></li>
+    </ul>
   <li>Discuss why the reading Learning (Your First Job) was assigned</li>
   <li>Respond to selected tickets to leave
   <li>BxMC URLs Rollcall
