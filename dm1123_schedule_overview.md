@@ -23,15 +23,15 @@
     </tr>
     <tr>
         <td>1</td>
-        <td>Sep 2<br>Overview of Course</td>
-        <td>Sep 4<br>Class Exercise: Components-Color</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br>Overview of Course</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br>Class Exercise: Components-Color</a></td>
         <td>Colorzilla / Kuler</td>
         <td>Illustrator CC Essential Training with Justin Seeley</td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="" target="_blank"></a>Sep 9<br>Class Exercise: Components-Type</td>
-        <td><a href="" target="_blank"></a>Sep 11<br>Screening: Type</td>
+        <td><a href="dm1123_weekly_detail_wk2_sep9.md"></a>Sep 9<br>Class Exercise: Components-Type</a></td>
+        <td><a href="dm1123_weekly_detail_wk2_sep9.md"></a>Sep 11<br>Screening: Type</a></td>
         <td>Adobe Illustrator / Helvetica</td>
         <td>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</td>
     </tr>
