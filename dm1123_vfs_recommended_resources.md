@@ -99,6 +99,8 @@
 
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
+  * Fount - http://fount.artequalswork.com
+  * What the Font - 
   * Designing with Type – http://designingwithtype.com
   * Typolis – http://typolis.de/version1/engl/typolis.htm
   * Counterspace – http://www.counterspace.us/typography
