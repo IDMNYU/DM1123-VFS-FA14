@@ -18,7 +18,7 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">2</td>
+  <td valign="top">3</td>
   <td valign="top"><strong>Sep 16</strong></td>
   <td valign="top"><strong>Sep 18</strong></td>
 </tr>

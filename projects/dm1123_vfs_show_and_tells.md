@@ -26,10 +26,10 @@
 * Select an artist, designer, or collective from the list below.
 * Specific show & tell due dates are outlined in the schedule at the end of the syllabus and on basecamp.
 * Check out at least one book from the NYU library (or library of your choice) which contains images of the work of your chosen artist, designer, or collective, and bring it to class. 
-* Each team member should bring in at least 3 or more digitized examples of the work of your chosen artist, designer, or collective for a total of at least 6 images. 
+* Each team member should bring in at least 3 or more digitized examples of the work of your chosen artist, designer, or collective for a total of at least 6 images.
 * Be familiar with a brief bio (or overview) and be prepared to CRITICALLY discuss your assigned artist, designer, or collective and their supporting work in an engaging presentation in front of the class. 
 
-* Artists, Designers & Collectives:
+**Artists, Designers & Collectives:**
 * Peter Saville (music / punk aesthetic)
 * Chip Kidd (book jackets) 
 * Josef Muller-Brockman (composition)
