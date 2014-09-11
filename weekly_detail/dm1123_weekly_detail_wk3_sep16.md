@@ -58,7 +58,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top" colspan="2">
-  <h4>Lynda.com Tutorials</h4>
+  <strong>Lynda.com Tutorials</strong>
   Based on your current skill levels in these programs.
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
