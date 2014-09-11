@@ -39,18 +39,16 @@
   <li>BxMC URLs Rollcall
   <li>Demo: Wordpress continued</li>
   <li>Quiz</li>
-  
-  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
-
   </td>
-  <td valign="top" width="48%"><h5>SCREENING: TYPE</h5>
+  <td valign="top" width="48%"><strong>SCREENING: TYPE</strong>
     <ul>
     <li>Review Quiz</li>
     <li>Review reading (Type vs. Typeface vs. Font)</li>
     <li>Review class exercise: Color</li>
     <li><a href="../class_exercises/dm3193_class_exercise_typefaces.md" target="_blank">Review class exercise: Typefaces</a></li>
     <li>Demo: Adobe Illustrator</li>
+    <li>Screening (if time)</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
@@ -59,8 +57,7 @@
 <!-- homework -->
 <tr>
   <td valign="top">read</td>
-  <td>
-  <h4><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a></h4>
+  <td><strong><a href="http://www.thinkingwithtype.com" target="_blank">http://www.thinkingwithtype.com</a></strong>
     <ul> 
     <li>What is leading?
     <li>What is kerning?
