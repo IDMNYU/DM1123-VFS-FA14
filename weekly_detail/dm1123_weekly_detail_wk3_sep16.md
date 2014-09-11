@@ -28,6 +28,7 @@
   <td valign="top" width="48%"><strong>COMPONENTS: IMAGE</strong>
   <ul>
   <li><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>
+  <li>Respond to selected tickets to leave</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Andy Warhol: Elanur and Alexis</li>
@@ -58,8 +59,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top" colspan="2">
-  <strong>Lynda.com Tutorials</strong>
-  Based on your current skill levels in these programs.
+  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
