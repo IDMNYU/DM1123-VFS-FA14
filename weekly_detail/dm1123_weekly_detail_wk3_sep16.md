@@ -48,6 +48,11 @@
   </td>
 </tr>
 
+<!-- read -->
+<tr>
+  <td valign="top">read</td>
+  <td valign="top" colspan="2"><strong>Catch up on reading if behind or<br>Review reading</strong></td>
+</tr>
 
 <!-- do -->
 <tr>
