@@ -76,13 +76,22 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td valign="top" colspan="2"><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <td valign="top"><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
+  <td valign="top"><p>Do <a href="../class_exercises/dm3193_class_exercise_typefaces.md" target="_blank">class exercise: Typefaces</a> as homework instead.</p>
+  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <ul>
+  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
+  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
+  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
+  <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
+  </ul></td>
+
 </tr>
 </table>
 
