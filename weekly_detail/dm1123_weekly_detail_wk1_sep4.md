@@ -24,7 +24,7 @@
 <li>Group Syllabus Review</li>
 </ul></td>
 <td valign="top"><strong>Sep 4</strong><br>
-<h5>Housekeeping</h5>
+<strong>Housekeeping</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Basecamp</li>
@@ -44,9 +44,9 @@
 </ul>
 </ul>
 
-<h5>Discuss Homework</h5>
+<strong>Discuss Homework</strong>
 
-<h5>Why is this class important?</h5>
+<strong>Why is this class important?</strong>
 <ul>
 <li>Visual interfaces are all around us. </li>
 <li>Visual communication does make a difference and it communicates.</li>
@@ -55,17 +55,17 @@
 <li>Discuss course &amp; learning objectives in syllabus</li>
 </ul>
 
-<h5>Discuss Reading Responses</h5>
+<strong>Discuss Reading Responses</strong>
 <ul>
 <li>Learning (Your First Job) by Leamnson</li>
 </ul>
 
-<h5>Show &amp; Tell</h5>
+<strong>Show &amp; Tell</strong>
 <ul>
 <li>Nicholas Felton - Collin &amp; Max</li>
 </ul>
 
-<h5>Demos</h5>
+<strong>Demos</strong>
 <ul>
 <li>[Wordpress] (http://wordpress.org) overview (pages vs. posts, categories, menu)</li>
 <li>Color</li>
@@ -76,18 +76,17 @@
   <li>[Color Meaning] (http://color-wheel-pro.com/color-meaning.html)</li>
  </ul>
 
-<h5><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></h5>
-<ul>
-<li>Ran out of time to do as class exercise. </li>
-<li>Complete as Homework.</li>
-<li>Utilize Wordpress or Basecamp to post your image and corresponding text.</li>
-</ul>
-
-<h5>Ticket to Leave</h5>
-<ul>
-<li>What are the three most important points you learned today in class? </li>
-<li>What concept(s) confuses you from today’s lecture or exercises? (This will give you a clue as to what you should study before the next class.)</li>
+<li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
 </ul></td>
+</tr>
+<tr>
+  <td>do</td>
+  <td></td> 
+  <td>
+  <ul>
+   <li>Get setup with <a href="../dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+  <li><strong><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></strong> as homework</td></li>
+  </ul>
 </tr>
 </table>
 
