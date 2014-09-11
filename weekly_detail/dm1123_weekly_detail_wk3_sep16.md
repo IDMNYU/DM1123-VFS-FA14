@@ -24,7 +24,7 @@
 </tr>
 <!-- class -->
 <tr>
-  <td valign="top" width="48%">class</td>
+  <td valign="top" width="4%">class</td>
   <td valign="top" width="48%">
   <h5>COMPONENTS: IMAGE</h5>
   <ul>
