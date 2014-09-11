@@ -25,11 +25,10 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%">
-  <h5>COMPONENTS: IMAGE</h5>
+  <td valign="top" width="48%"><strong>COMPONENTS: IMAGE</strong>
   <ul>
   <li><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>
-  <li>Show &amp; Tell due:</li>
+  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Andy Warhol: Elanur and Alexis</li>
       <li>Barbara Krueger: Jenny and Indira</li>
@@ -40,7 +39,7 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><h5>SCREENING: TYPE or IMAGE</h5>
+  <td valign="top" width="48%"><strong>SCREENING: TYPE or IMAGE</strong>
     <ul>
     <li>Respond to selected tickets to leave
     <li>Demo: Adobe Photoshop</li>

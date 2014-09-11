@@ -28,7 +28,7 @@
   <td valign="top" width="48%">
   <h5>COMPONENTS: TYPE</h5>
   <ul>
-  <li>Show &amp; Tell due: David Carson</li>
+  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tell</a> due: David Carson</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
   <li>Final Syllabus on <a href="../dm1123_vfs_syllabus.md" target="_blank">Github</a> (Decided not to print to save trees)
     <ul>
