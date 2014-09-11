@@ -25,8 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top">class</td>
-  <td valign="top" width="48%">
-  <h5>COMPONENTS: TYPE</h5>
+  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
   <ul>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tell</a> due: David Carson</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
@@ -65,7 +64,7 @@
     <li>What is a type family?
     <li>What is the anatomy of a letter? 
     </ul>
-  <h4>Type On Screen</h4>
+  <strong>Type On Screen</strong>
     <ul>
     <li>01: Fonts On Screen
     </li>
@@ -77,9 +76,7 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td valign="top" colspan="2">
-  <h4>Lynda.com Tutorials</h4>
-  Based on your current skill levels in these programs.
+  <td valign="top" colspan="2"><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
   <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
