@@ -22,14 +22,13 @@
   <td valign="top" width="48%"><strong>Sep 4</strong></td>
 </tr>
 <tr>
-<td>class</td>
-<td>
+<td valign="top">class</td>
+<td valign="top">
 <ul>
 <li><a href="../class_exercises/dm3193_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
 <li>Group Syllabus Review</li>
 </ul></td>
-<td>
-<strong>Housekeeping</strong>
+<td valign="top"><strong>Housekeeping</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Basecamp</li>
@@ -89,7 +88,7 @@
   <td></td> 
   <td>
   <ul>
-   <li>Get setup with <a href="../dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
+   <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
   <li><strong><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></strong> as homework</td></li>
   </ul>
 </tr>
