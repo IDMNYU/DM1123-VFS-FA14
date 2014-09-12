@@ -89,7 +89,7 @@
   <td>
   <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li><strong><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a></strong> as homework</td></li>
+  <li><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a> as homework</td></li>
   </ul>
 </tr>
 </table>
