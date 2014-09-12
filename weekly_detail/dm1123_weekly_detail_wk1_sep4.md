@@ -84,13 +84,17 @@
 </ul></td>
 </tr>
 <tr>
+  <td>read</td>
+  <td>Post a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for the PDF, Learning (Your First Job) by Leamnson, which is located on basecamp under the Files tab.</td> 
+</tr>
+<tr>
   <td>do</td>
   <td></td> 
   <td>
   <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a> as homework</td></li>
-  </ul>
+  <li><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
+  </ul></td>
 </tr>
 </table>
 
