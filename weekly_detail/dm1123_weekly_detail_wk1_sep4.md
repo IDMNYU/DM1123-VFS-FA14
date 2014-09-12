@@ -85,6 +85,7 @@
 </tr>
 <tr>
   <td>read</td>
+  <td></td>
   <td>Post a <a href="../projects/dm1123_vfs_reading_responses" target="_blank">reading response</a> for the PDF, Learning (Your First Job) by Leamnson, which is located on basecamp under the Files tab.</td> 
 </tr>
 <tr>
