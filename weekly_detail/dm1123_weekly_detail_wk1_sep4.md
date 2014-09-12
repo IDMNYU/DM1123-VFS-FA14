@@ -17,13 +17,18 @@
 <td>Thursdays (due on date listed)</td>
 </tr>
 <tr>
-<td valign="top">1</td>
-<td valign="top" width="48%"><strong>Sep 2</strong><br>
+  <td valign="top">1</td>
+  <td valign="top" width="48%"><strong>Sep 2</strong></td>
+  <td valign="top" width="48%"><strong>Sep 4</strong></td>
+</tr>
+<tr>
+<td>class</td>
+<td>
 <ul>
 <li><a href="../class_exercises/dm3193_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
 <li>Group Syllabus Review</li>
 </ul></td>
-<td valign="top" width="48%"><strong>Sep 4</strong><br>
+<td>
 <strong>Housekeeping</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
@@ -44,7 +49,7 @@
 </ul>
 </ul>
 
-<strong>Discuss Homework</strong>
+<strong>Discuss Homework</strong><br><br>
 
 <strong>Why is this class important?</strong>
 <ul>
