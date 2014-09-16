@@ -26,9 +26,7 @@
 <tr>
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>COMPONENTS: Color &amp; Type Review</strong>
-  <ul>
-  <li><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>
-  
+  <ul>  
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Andy Warhol: Elanur and Alexis</li>
@@ -45,7 +43,7 @@
   <td valign="top" width="48%"><strong>COMPONENTS: Image</strong>
     <ul>
     <li>Respond to selected tickets to leave</li>
-    <li>Screening</li>
+    <li>Class Exercise: Review Image HW in Teams</li>
     <li>Demo: Adobe Photoshop</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
