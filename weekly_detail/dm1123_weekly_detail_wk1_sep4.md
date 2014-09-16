@@ -25,10 +25,10 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li><a href="../class_exercises/dm3193_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
+<li><strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm3193_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
 <li>Group Syllabus Review</li>
 </ul></td>
-<td valign="top"><strong>Housekeeping</strong>
+<td valign="top"><strong>Overview of Course</strong>
 <ul>
 <li><a href="https://creative.adobe.com/plans" target="_blank">Adobe Creative Cloud - Student and Teacher Tab</a></li>
 <li> Basecamp</li>

@@ -36,6 +36,7 @@
       <li>Aleksander Rodchenko: Naomi and Avi</li>
     </ul>
   <li>Naomi Pan: <a href="http://wordmark.it" target="_blank">http://wordmark.it</a></li>
+  <li>Demo Illustrator continued</li>
   <li>Class Exercise: Review Type and Color HW in Teams</li>
   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>

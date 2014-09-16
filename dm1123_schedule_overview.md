@@ -21,22 +21,22 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br>Overview of Course</a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br>Class Exercise: Components-Color</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br>Course and Student Introductions</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br>Overview of Course</a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Class Exercise: Components-Type</a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Screening: Type</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Components: Color</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Components: Type</a></td>
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br>Class Exercise: Components-Image</a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br>Screening: Image</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br>Components: Color &amp; Type Review</a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br>Components: Image</a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 23<br>Class Exercise: Composition<br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td>Sep 23<br><strong>Screening: Type<br>Components: Composition</strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
         <td>Sep 25<br>Class Exercise: Concept</td>
     </tr>
     <tr>

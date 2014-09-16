@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top">class</td>
-  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: COLOR</strong>
   <ul>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tell</a> due: David Carson</li>
   <li>Assign remaining creator Show &amp; Tells as extra credit
@@ -40,7 +40,7 @@
   <li>Quiz</li>
   </ul>
   </td>
-  <td valign="top" width="48%"><strong>SCREENING: TYPE</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: TYPE</strong>
     <ul>
     <li>VFS Knowledge Survey</li>
     <li>Review Quiz</li>
