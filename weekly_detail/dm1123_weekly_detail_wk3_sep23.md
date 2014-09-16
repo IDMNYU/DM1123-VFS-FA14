@@ -18,9 +18,9 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">3</td>
-  <td valign="top"><strong>Sep 16</strong></td>
-  <td valign="top"><strong>Sep 18</strong></td>
+  <td valign="top">4</td>
+  <td valign="top"><strong>Sep 23</strong></td>
+  <td valign="top"><strong>Sep 25</strong></td>
 </tr>
 <!-- class -->
 <tr>

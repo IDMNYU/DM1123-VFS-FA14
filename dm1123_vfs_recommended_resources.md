@@ -100,7 +100,9 @@
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
   * Fount - http://fount.artequalswork.com
-  * What the Font - 
+  * Mac OS application: Font Book 
+  * Wordmark - http://wordmark.it
+  * What the Font - https://www.myfonts.com/WhatTheFont/
   * Designing with Type – http://designingwithtype.com
   * Typolis – http://typolis.de/version1/engl/typolis.htm
   * Counterspace – http://www.counterspace.us/typography
