@@ -21,22 +21,22 @@
     </tr>
     <tr>
         <td>1</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br>Course and Student Introductions</a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br>Overview of Course</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 2<br><strong>Course and Student Introductions</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk1_sep4.md">Sep 4<br><strong>Overview of Course</strong></a></td>
     </tr>
     <tr>
         <td>2</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 9<br>Components: Color</a></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br>Components: Type</a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 9<br><strong>Components: Color</strong></a></td>
+        <td><a href="weekly_detail/dm1123_weekly_detail_wk2_sep9.md">Sep 11<br><strong>Components: Type</strong></a></td>
     </tr>
     <tr>
         <td>3</td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br><strong>Adobe Illustrator Demo</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br>Components: Color, Type &amp; Image HW Review</a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 23<br><strong>Screening: Type<br></strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top">Sep 23<br>Screening: Type<br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
         <td valign="top">Sep 25<br>Components: Composition &amp; Concept</td>
     </tr>
     <tr>
