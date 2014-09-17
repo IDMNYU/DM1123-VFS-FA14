@@ -32,7 +32,7 @@
     <tr>
         <td>3</td>
         <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br><strong>Adobe Illustrator Demo</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 18<br><strong>Components: Color, Type &amp; Image HW Review</strong></a></td>
     </tr>
     <tr>
         <td>4</td>
