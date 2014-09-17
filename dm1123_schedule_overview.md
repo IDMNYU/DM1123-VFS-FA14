@@ -15,9 +15,9 @@
 *Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
-        <th width="2%">wk</th>
-        <th width="28%">Tuesdays (Due on Date Listed)</th>
-        <th width="28%">Thursdays (Due on Date Listed)</th>
+        <th width="4%">wk</th>
+        <th width="48%">Tuesdays (Due on Date Listed)</th>
+        <th width="48%">Thursdays (Due on Date Listed)</th>
     </tr>
     <tr>
         <td>1</td>
@@ -31,13 +31,13 @@
     </tr>
     <tr>
         <td>3</td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br>Components: Color &amp; Type Review</a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
-        <td><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br>Components: Image</a></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep16.md">Sep 16<br><strong>Adobe Illustrator Demo</strong></a><br><br><strong><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk3_sep9.md">Sep 18<br>Components: Color, Type &amp; Image HW Review</a></td>
     </tr>
     <tr>
         <td>4</td>
-        <td>Sep 23<br><strong>Screening: Type<br>Components: Composition</strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
-        <td>Sep 25<br>Class Exercise: Concept</td>
+        <td valign="top">Sep 23<br><strong>Screening: Type<br></strong><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top">Sep 25<br>Components: Composition &amp; Concept</td>
     </tr>
     <tr>
         <td>5</td>

@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>COMPONENTS: Color &amp; Type Review</strong>
+  <td valign="top" width="48%"><strong>Illustrator Demo</strong>
   <ul>  
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
@@ -35,16 +35,16 @@
     </ul>
   <li>Naomi Pan: <a href="http://wordmark.it" target="_blank">http://wordmark.it</a></li>
   <li>Demo Illustrator continued</li>
-  <li>Class Exercise: Review Type and Color HW in Teams</li>
   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>COMPONENTS: Image</strong>
+  <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
     <li>Respond to selected tickets to leave</li>
-    <li>Class Exercise: Review Image HW in Teams</li>
-    <li>Demo: Adobe Photoshop</li>
+    <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
+    <li>Demo Illustrator continued</li>
+    <li>Demo Adobe Photoshop (if time)</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
