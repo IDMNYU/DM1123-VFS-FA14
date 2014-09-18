@@ -9,7 +9,7 @@
 
 ## Creator Show & Tell Assignments
 
-**Peter Saville (music / punk aesthetic) - Shira & ?** - Oct 30
+**Peter Saville (music / punk aesthetic) - Shira & Melisa** - Oct 30
 
 Chip Kidd (book jackets) - Alice & Tasmiur - Oct 30
 
@@ -19,7 +19,7 @@ Josef Muller-Brockman (composition / the grid) Collin & Indira - Sep 25
 
 ~~Andy Warhol (image) - Elanur & Alexis - Sep 16~~
 
-**Tibor Kalman (concept / image) - Michael Li & ? Sep 25**
+**Tibor Kalman (concept / image) - Michael Li & Aaron Sep 25**
 
 ~~David Carson (type & image) - Melisa & Omayeli -  Sep 9~~
 
