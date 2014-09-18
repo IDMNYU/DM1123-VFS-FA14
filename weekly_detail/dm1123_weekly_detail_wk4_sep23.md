@@ -43,7 +43,7 @@
     <li>Respond to selected tickets to leave</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
-      <li>Tibor Kalman: Michael and ?</li>
+      <li>Tibor Kalman: Michael and Aaron</li>
       <li>Josef Müller-Brockmann: Collin and Indira</li>
     </ul>
     <li>Jim Crause's Visual Glue Concept</li>
@@ -77,7 +77,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <strong><a href="" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (will post to basecamp tonight)
+  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (will post to basecamp tonight)</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
