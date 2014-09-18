@@ -27,8 +27,7 @@
   <td valign="top" width="4%">class</td>
   <td valign="top" width="48%"><strong>SCREENING: Type</strong>
   <ul>
-  <li><i>Note: Sep 15 - Last day to drop a class and receive a refund of 100% of tuition &amp; fees</i>
-  
+  <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Stefan Sagmeister: Teresa and Larysa</li>
