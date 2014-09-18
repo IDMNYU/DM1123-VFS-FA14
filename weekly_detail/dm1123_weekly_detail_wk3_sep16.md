@@ -42,8 +42,10 @@
   <td valign="top" width="48%"><strong>COMPONENTS: Color, Type, &amp; Image</strong>
     <ul>
     <li>Respond to selected tickets to leave</li>
+    <li>Github vs. Basecamp</li>
+    <li>What Makes a Font Bad?</li>
     <li>Class Exercise: Review Color, Type, and Image HW in Teams</li>
-    <li>Demo Illustrator continued</li>
+    <li>Demo Illustrator continued (if time)</li>
     <li>Demo Adobe Photoshop (if time)</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
