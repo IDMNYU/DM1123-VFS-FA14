@@ -36,8 +36,8 @@
     </tr>
     <tr>
         <td>4</td>
-        <td valign="top">Sep 23<br>Screening: Type<br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
-        <td valign="top">Sep 25<br>Components: Composition &amp; Concept</td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md" target="_blank">Sep 23<br>Screening: Type</a><br><br><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong></td>
+        <td valign="top"><a href="weekly_detail/dm1123_weekly_detail_wk4_sep23.md" target="_blank">Sep 25<br>Components: Composition &amp; Concept</a></td>
     </tr>
     <tr>
         <td>5</td>
