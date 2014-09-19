@@ -77,7 +77,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (will post to basecamp tonight)</p>
+  <p><strong><a href="../projects/dm1123_vfs_reading_responses.md" target="_blank">Reading Response</a></strong> for Convergence Doesn't Matter by Kyle Cooper (pdf posted on basecamp underneath files tab)</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
