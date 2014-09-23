@@ -25,7 +25,7 @@
 <td valign="top">class</td>
 <td valign="top">
 <ul>
-<li><strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm3193_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
+<li><strong>Course and Student Introductions</strong><br><a href="../class_exercises/dm1123_class_exercise_first_day.md">Class Exercises: First Day of Class</li>
 <li>Group Syllabus Review</li>
 </ul></td>
 <td valign="top"><strong>Overview of Course</strong>
@@ -94,7 +94,7 @@
   <td>
   <ul>
    <li>Get setup with <a href="../projects/dm1123_idm_coursework_documentation.md">IDM coursework documentation directory</a> and alternatively a directory for your site unless you are using your own ISP (Internet Service Provider)</li>
-  <li><a href="../class_exercises/dm3193_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
+  <li><a href="../class_exercises/dm1123_class_exercise_color.md">Class Exercise: Color</a> as homework</li>
   </ul></td>
 </tr>
 </table>
