@@ -40,6 +40,8 @@
   </td>
   <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
     <ul>
+    <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
+    <li>Discuss next class homework</li>
     <li>Respond to selected tickets to leave</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
@@ -83,7 +85,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class xercise: Composition and Concept</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
