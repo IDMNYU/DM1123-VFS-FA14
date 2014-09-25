@@ -29,6 +29,17 @@
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
   <li>Respond to selected tickets to leave</li>
+    <ul>
+    <li>How Do You Create Your Own Typefaces? 
+      <ul>
+      <li><strong><a href="http://www.fontlab.com/font-editor/fontlab-studio/" target="_blank">Font Lab Studio (predecessor Fontographer)</a></strong></li>
+      <li><a href="http://www.glyphsapp.com/" target="_blank">http://www.glyphsapp.com</a></li>
+        <ul>
+        <li><a href="https://itunes.apple.com/gb/app/glyphs-mini/id469036911?mt=12" target="_blank">Glyphs Mini</a><li>
+        </ul>
+        <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> 
+    </ul>
+    </ul>
   <li>Discuss homework for next class</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>

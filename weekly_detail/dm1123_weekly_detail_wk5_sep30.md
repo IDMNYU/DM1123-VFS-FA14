@@ -68,10 +68,9 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong>
   <ul>
   <li><strong><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a></strong></li>
-  <li><strong>Do <a href="../class_exercises/dm1123_class_exercise_brand.md" target="_blank">Class Exercise: Brand</a></strong> as homework instead.</p>
+  <li>Do <strong><a href="../class_exercises/dm1123_class_exercise_brand.md" target="_blank">Class Exercise: Brand</a></strong> as homework instead.</p>
   </li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
