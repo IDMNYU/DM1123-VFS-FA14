@@ -28,6 +28,8 @@
   <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
+  <li>Respond to selected tickets to leave</li>
+  <li>Discuss homework for next class</li>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Stefan Sagmeister: Teresa and Larysa</li>
@@ -40,13 +42,14 @@
   </td>
   <td valign="top" width="48%"><strong>SCREENING: Type</strong>
     <ul>
+    <li>Reminder: Don't forget to use your name as a category</li>
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Tibor Kalman: Michael and Aaron</li>
       <li>Josef Müller-Brockmann: Collin and Indira</li>
     </ul>
-    <li>Discuss next week's homework</li>
+    <li>Discuss homwork for next week</li>
     <li>Lecture:</li>
       <ul>
       <li><a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
@@ -100,7 +103,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class xercise: Composition and Concept</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
