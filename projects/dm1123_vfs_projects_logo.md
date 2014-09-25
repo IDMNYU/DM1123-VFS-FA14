@@ -22,8 +22,9 @@ Post on your class website as a grid gallery with lightbox functionality in blac
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
 * at least 3 should be digital
 * at least 3 should be haptic (non-digital) 
+  * You will need to digitize haptic files (i.e. scan or take a digital photo, etc.)
 * Also, consider creating haptic / digital combos
-* To comprise, your different versions: play around with creating logotypes, ideograms, pictograms, characters, and/or letter marks
+* To comprise, your different versions: play around with creating <a href="" target="_blank">icons/symbols, logotypes, and/or combination logos</a>
 * It could also be a redesign of an existing personal logo. If so, please post the original logo as well
 
 #### LOGO 2nd Draft  
