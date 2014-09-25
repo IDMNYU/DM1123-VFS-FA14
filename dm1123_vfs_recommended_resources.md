@@ -50,7 +50,7 @@
 * **Image**
   * photo idea index by Jim Krause
 
-* **Semiotics & Reduction**
+* **Semiotics** (The study of signs and symbols)
   * flatnessisgod by Ryan McGinness 
   * Symbol Sourcebook by Henry Dreyfuss
   * Marks of Excellence by Per Mollerup 

@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>SCREENING: Type</strong>
+  <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
   <ul>
   <li><strong><i>Note: Sep 22 - Last day to drop fall 2014 classes and not receive a grade of "W"</i></strong>
   <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
@@ -38,13 +38,18 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>Components: Composition &amp; Concept</strong>
+  <td valign="top" width="48%"><strong>SCREENING: Type</strong>
     <ul>
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
-    <li>Discuss next class homework</li>
-    <li>Lecture: <a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
+    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
+    <ul>
+      <li>Tibor Kalman: Michael and Aaron</li>
+      <li>Josef Müller-Brockmann: Collin and Indira</li>
+    </ul>
+    <li>Discuss next week's homework</li>
     <li>Lecture:</li>
       <ul>
+      <li><a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
       <li><a href="http://www.logodesignsource.com/types.html" target="_blank">3 Basic Types of Logos</a> and <a href="http://www.nodinx.com/5-basic-types-of-logos/" target="_blank">if you want to get technical, there is actually 5</a>
         <ul>
         <li><a href="http://thenounproject.com/" target="_blank">Icons / Symbols</a></li>
@@ -54,13 +59,10 @@
       <li><a href="https://polishedsolid.basecamphq.com/projects/12353075-visual-foundation-studio-fall-2014/files" target="_blank">Versions (different) vs. Variations (similar)</a> (vfs_logo_packet.pdf)</li>
       <li><a href="http://www.creativereview.co.uk/images/uploads/2013/07/aol_wolff_olins_2009_0.jpg" target="_blank">Flexible Logotypes</a> (152-153 Type On Screen)</li>
       <li><a href="http://www.creativeapplications.net/wp-content/uploads/2011/03/LogoMain2.jpg" target="_blank">Generative Logotypes</a> (154-155 Type On Screen)</li>
+      <li><a href="../dm1123_vfs_recommended_resources.md" target="_blank">Additional Resources</a> (Under Semiotics)</li>
       </ul>
     <li>Respond to selected tickets to leave</li>
-    <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
-    <ul>
-      <li>Tibor Kalman: Michael and Aaron</li>
-      <li>Josef Müller-Brockmann: Collin and Indira</li>
-    </ul>
+    
     <li>Screening: Helvetica Documentary</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>

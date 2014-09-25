@@ -47,7 +47,7 @@
     <tr>
         <td>6</td>
         <td>Oct 07<br>LOGO 1st Draft (Group B)</td>
-        <td>Oct 09<br><strong><i>No Class</i></strong> (Dec. 11 is makeup date)</td>
+        <td>Oct 09<br><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></td>
     </tr>
     <tr>
         <td>7</td>
