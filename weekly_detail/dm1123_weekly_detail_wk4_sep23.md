@@ -62,7 +62,7 @@
         <li><a href="http://doc.robofont.com/documentation/welcome-to-robofont/" target="_blank">Robofont</a> (Built using Python)
     </ul>
     </ul>
-    <li>Discuss homwork for next week</li>
+    <li>Discuss homework for next week</li>
     <li>Lecture:</li>
       <ul>
       <li><a href="http://betterbusinessbrand.com/the-differences-between-a-logo-an-identity-and-a-brand" target="_blank">The difference between a brand and a logo</a></li>
