@@ -25,22 +25,21 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong>Logo Show and Tells</strong>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tells</a></strong>
   <ul>
-  <li><a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tells</a></li>
-   <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
+   <li>Discuss next class homework</li>
+   <li>Respond to selected tickets to leave</li>
   </ul>
 
   </td>
-  <td valign="top" width="48%"><strong>LOGO 1st Draft DUE (Group A)</strong>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a></strong>
     <ul>
-    <li>Respond to selected tickets to leave</li>
+    <li>Discuss next class homework</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
       <li>Saul Bass (for logos, not film titles): Boyong &amp; Hornby</li>
       <li>Shepard Fairey: Hillary &amp; Kevin</li>
     </ul>
-<li><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a> <strong>(Group A)</strong></li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
@@ -69,7 +68,7 @@
 <tr>
   <td valign="top">do</td>
   <td valign="top">
-  <p><strong><strong>Do <a href="../class_exercises/dm1123_class_exercise_brand.md" target="_blank">class exercise: Brand</a></strong> as homework instead.</p>
+  <p><strong><strong>Do <a href="../class_exercises/dm1123_class_exercise_brand.md" target="_blank">Class Exercise: Brand</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   <ul>
   <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -79,7 +78,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-  <li><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></li>
+  <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
