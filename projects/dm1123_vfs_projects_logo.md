@@ -16,8 +16,12 @@ Create a logo for your selected brand in Adobe Illustrator.
 * Throughout the semester, we’ll be investigating ways to visually communicate this brand, through creating an identity system which will consist of a logo, an interface, and a physical application.
 
 ####LOGO 1st Draft  
-Post on your class website as a grid gallery with lightbox functionality in black & white and logo1 category:
-* At least 10 different versions of logo iterations of your selected brand
+* Post to your wordpress 
+* as a gallery 
+  * New Post -> Add Media -> Create Gallery
+  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
+* Category: logo1
+* At least 10 different versions of logo iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
   * A big version vs. a tiny version (a little bigger than postage size) in the corner
 * at least 3 should be digital
