@@ -12,7 +12,7 @@
 
 *All dates and assignments are subject to change at the discretion of the professor! Github and basecamp are the official sources for all dates and assignments; the printed syllabus is not. The printed syllabus is a general overview / guideline.* 
 
-*Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule as printed in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
+*Github / Basecamp are living, dynamic sources. **If there are any changes to the schedule in the syllabus, I will note these changes on github and/or basecamp and in person during class.***
 <table>
     <tr>
         <th width="4%">wk</th>
@@ -47,7 +47,7 @@
     <tr>
         <td>6</td>
         <td>Oct 07<br>LOGO 1st Draft (Group B)</td>
-        <td>Oct 09<br><strong><i>No Class</i></strong></td>
+        <td>Oct 09<br><strong><i>No Class</i></strong> (Dec. 11 is makeup date)</td>
     </tr>
     <tr>
         <td>7</td>
