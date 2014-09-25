@@ -41,8 +41,8 @@
     </tr>
     <tr>
         <td>5</td>
-        <td>Sep 30<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">LOGO Show & Tells</a></td>
-        <td>Oct 02<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md">LOGO 1st Draft (Group A)</a></td>
+        <td>Sep 30<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>LOGO Show & Tells</strong></a></td>
+        <td>Oct 02<br><a href="weekly_detail/dm1123_weekly_detail_wk5_sep30.md"><strong>LOGO 1st Draft (Group A)</strong></a></td>
     </tr>
     <tr>
         <td>6</td>
