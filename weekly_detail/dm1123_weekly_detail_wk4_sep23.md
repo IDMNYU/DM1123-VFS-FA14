@@ -43,7 +43,11 @@
   </td>
   <td valign="top" width="48%"><strong>SCREENING: Type</strong>
     <ul>
-    <li>Reminder: Don't forget to use your name as a category</li>
+    <li>Basecamp Reminders</li>
+      <ul>
+      <li>Don't forget to use your name as a category</li>
+      <li>Don't forget to include http:// with any link you post in a message</li>
+      </ul>
     <li>Finalize <a href="../projects/dm1123_vfs_show_and_tells.md">Logo Show and Tell</a> Partners</li>
     <li><a href="../projects/dm1123_vfs_show_and_tells.md">Show &amp; Tells</a> due:</li>
     <ul>
