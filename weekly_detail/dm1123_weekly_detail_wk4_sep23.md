@@ -33,7 +33,7 @@
       <li>Stefan Sagmeister: Teresa and Larysa</li>
       <li>Paula Scher: Daric and Alexis</li>
     </ul>
-  <li>Screening</li>
+  
    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to Leave</a></li>
   </ul>
 
@@ -46,9 +46,7 @@
       <li>Tibor Kalman: Michael and Aaron</li>
       <li>Josef Müller-Brockmann: Collin and Indira</li>
     </ul>
-    <li>Jim Crause's Visual Glue Concept</li>
-    <li>Kimberly Elam's Typograhic Systems</li>
-    <li>Class Exericse: Typographic Systems</li>
+    <li>Screening: Helvetica Documentary</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
     </ul>
   </td>
@@ -85,7 +83,7 @@
   <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
   <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
   </ul></td>
-  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">class exercise: Concept</a></strong> as homework instead.</p>
+  <td valign="top"><p><strong>Do <a href="../class_exercises/dm1123_class_exercise_concept.md" target="_blank">Class Exercise: Composition and Concept</a></strong> as homework instead.</p>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</td>
 </tr>
 </table>
