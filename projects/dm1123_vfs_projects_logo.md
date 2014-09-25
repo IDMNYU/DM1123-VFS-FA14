@@ -21,7 +21,7 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logo1
-* At least 10 different versions of logo iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
+* **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
   * A big version vs. a tiny version (a little bigger than postage size) in the corner
 * at least 3 should be digital
@@ -32,14 +32,18 @@ Create a logo for your selected brand in Adobe Illustrator.
 * It could also be a redesign of an existing personal logo. If so, please post the original logo as well
 
 #### LOGO 2nd Draft  
-Post on your class website as a grid gallery with lightbox functionality in black & white or color and logo2 category:
-* At least 5 different variations of logo iterations based on each version selected in the previous class crit.
+* Post to your wordpress 
+* as a gallery 
+  * New Post -> Add Media -> Create Gallery
+  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
+* Category: logo2 
+* **At least 5 different variations** of logo iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 5 images
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
 
 #### LOGO Final  
-Post on your class website as a grid gallery with lightbox functionality in color and logofinal category:
-* your final logo.
+* Post to your wordpress 
+* Category: logofinal
 * In order to come to your final logo, you will have to do many more iterations of your selected logo version(s). I would like to see the iterations you made to get to your final logo, as well.
 
 
