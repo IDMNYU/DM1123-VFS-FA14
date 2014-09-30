@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a></strong>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a>
   <ul>
    <li>Discuss next class homework</li>
    <li>Respond to selected tickets to leave</li>
@@ -47,7 +47,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft (Group B)</a></strong></li>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong> (Group B)</li>
  <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
@@ -59,7 +59,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft (Group A)</a></strong></li>
+   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
