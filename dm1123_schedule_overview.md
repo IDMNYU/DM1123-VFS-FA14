@@ -46,7 +46,7 @@
     </tr>
     <tr>
         <td>6</td>
-        <td>Oct 07<br><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md">LOGO 1st Draft (Group B)</a></td>
+        <td>Oct 07<br><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md"><strong>LOGO 1st Draft (Group B)</strong></a></td>
         <td>Oct 09<br><a href="weekly_detail/dm1123_weekly_detail_wk6_oct07.md"><strong><i>No Class</i></strong> <i>(Dec. 11 is make up date)</i></a></td>
     </tr>
     <tr>
