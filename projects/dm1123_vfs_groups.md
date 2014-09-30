@@ -13,31 +13,31 @@
 
 **Group A**
 
-1 Ardolic, Indira
-2 Arenyeka, Omayeli
-3 Bowe, Christian
-4 Cai, Alice
-5 Chin, Hillary
-6 Demaestri, Melisa
-7 Grubbs, Collin
-8 Heron, Aaron
-9 Jiaohsia, Jennifer
-10 Pan, Naomi
-11 Rozen, Avi
+* Ardolic, Indira
+* Arenyeka, Omayeli
+* Bowe, Christian
+* Cai, Alice
+* Chin, Hillary
+* Demaestri, Melisa
+* Grubbs, Collin
+* Heron, Aaron
+* Jiaohsia, Jennifer
+* Pan, Naomi
+* Rozen, Avi
 
 
 **Group B**
 
-1 Du, Boyong
-2 DuBois, Kevin
-3 Feldman, Shira
-4 Hrabowych, Larysa
-5 Komsul, Elanur
-6 Li, Michael
-7 Lim, Daric
-8 Mai, Hornby
-9 Rabb, Tasmiur
-10 Yang, Wenqi
-11 Zerafa, Alexis
+* Du, Boyong
+* DuBois, Kevin
+* Feldman, Shira
+* Hrabowych, Larysa
+* Komsul, Elanur
+* Li, Michael
+* Lim, Daric
+* Mai, Hornby
+* Rabb, Tasmiur
+* Yang, Wenqi
+* Zerafa, Alexis
 
 
