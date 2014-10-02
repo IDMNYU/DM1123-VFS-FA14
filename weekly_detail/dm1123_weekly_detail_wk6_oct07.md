@@ -18,7 +18,7 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">5</td>
+  <td valign="top">6</td>
   <td valign="top"><strong>Oct 7</strong></td>
   <td valign="top"><strong>Oct 9</strong></td>
 </tr>
@@ -59,7 +59,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a></li>
+   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
