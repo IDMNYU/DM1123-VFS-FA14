@@ -47,7 +47,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong> (Group B)</li>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a></li>
  <li><a href="../projects/dm1123_vfs_reading_responses.md">Reading Response</a> for <a href="http://justcreative.com/2008/05/03/logo-design-tips-process-jeff-fisher-interview/" target="_blank">Logo Design Tips &amp; A Not-So-Ordinary Interview with Logo Designer, Jeff Fisher</a></li>
   </ul>
   <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
