@@ -37,14 +37,18 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logo2 
-* **At least 5 different variations** of logo iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
+* **At least 5 different variations of logo** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 5 images
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
 
 #### LOGO Final  
 * Post to your wordpress 
+* as a gallery 
+  * New Post -> Add Media -> Create Gallery
+  * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logofinal
-* In order to come to your final logo, you will have to do many more iterations of your selected logo version(s). I would like to see the iterations you made to get to your final logo, as well.
+* In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well.
+* **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version vs. a tiny version (a little bigger than postage size) in the corner
 
 
 
