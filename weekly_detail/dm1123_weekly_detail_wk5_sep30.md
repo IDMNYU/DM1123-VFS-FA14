@@ -41,8 +41,7 @@
       <li>Saul Bass (for logos, not film titles): Boyong &amp; Hornby</li>
       <li>Shepard Fairey: Hillary &amp; Kevin</li>
     </ul>
-    <li><a href="http://www.aiga.org/video-makethink-2009-commandx2-day1" target="_blank">VIDEO: COMMAND X: SEASON 2, DAY 1</a>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+    
     </ul>
   </td>
 </tr>
