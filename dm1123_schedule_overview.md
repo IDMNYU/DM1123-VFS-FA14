@@ -52,11 +52,11 @@
     <tr>
         <td>7</td>
         <td>Oct 14<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
-        <td>Oct 16<br>LOGO 2nd Draft (Group A)</td>
+        <td>Oct 16<br>LOGO 2nd Draft (Groups A &amp; B)</td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 21<br>LOGO 2nd Draft (Group B)</td>
+        <td>Oct 21<br>Screenings</td>
         <td>Oct 23<br><strong>LOGO FINAL (Group A)</strong></td>
     </tr>
     <tr>
