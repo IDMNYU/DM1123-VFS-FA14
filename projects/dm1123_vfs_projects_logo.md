@@ -21,6 +21,7 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logo1
+* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * **At least 10 different versions of logo** iterations of your selected brand **ALL in grayscale (this includes black &amp; white)**
 * One logo per 8 1/2 x 11 (letter) dimensions for a total of at least 20 images
   * A big version vs. a tiny version (a little bigger than postage size) in the corner
@@ -37,6 +38,7 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logo2 
+* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * **At least 5 different variations of logo** iterations in grayscale (black & white) or color based on each version selected in the previous class crit.
 * One logo per letter dimensions ( 8 1/2 x 11) for a total of at least 5 images
 * (a big version vs. a tiny version (a little bigger than postage size) in the corner)
@@ -47,6 +49,7 @@ Create a logo for your selected brand in Adobe Illustrator.
   * New Post -> Add Media -> Create Gallery
   * (OPTIONAL NOT REQUIRED)lightbox functionality via wordpress lightbox plugin of your choice
 * Category: logofinal
+* Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress post
 * In order to come to your final logo, you will have to do many more iterations of your selected logo version. I would like to see the iterations you made to get to your final logo, as well.
 * **Final logo** in color and letter dimensions (8 1/2 x 11) with a big version vs. a tiny version (a little bigger than postage size) in the corner
 
