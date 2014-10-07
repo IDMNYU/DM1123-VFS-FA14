@@ -28,7 +28,6 @@
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 1st Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group B)</a>
   <ul>
    <li>Discuss next class homework</li>
-   <li><a href="http://www.aiga.org/video-makethink-2009-commandx2-day1" target="_blank"></a>VIDEO: COMMAND X: SEASON 2, DAY 1
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul>
 
