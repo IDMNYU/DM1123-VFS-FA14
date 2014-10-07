@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%">NO Class: NYU Fall Recess</td>
+   <td valign="top" width="48%"><strong>NO Class: NYU Fall Recess</strong></td>
   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO 2nd Draft DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a>
   <ul>
    <li>Discuss next class homework</li>

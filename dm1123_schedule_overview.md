@@ -52,7 +52,7 @@
     <tr>
         <td>7</td>
         <td>Oct 14<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
-        <td>Oct 16<br>LOGO 2nd Draft (Groups A &amp; B)</td>
+        <td>Oct 16<br><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><strong>LOGO 2nd Draft (Groups A &amp; B)</strong></a></td>
     </tr>
     <tr>
         <td>8</td>

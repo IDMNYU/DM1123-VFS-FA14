@@ -32,7 +32,7 @@
   </ul>
 
   </td>
-  <td valign="top" width="48%">No Class (Dec. 11 is make up date)</td>
+  <td valign="top" width="48%"><strong>No Class (Dec. 11 is make up date)</strong></td>
 </tr>
 
 <!-- read -->
