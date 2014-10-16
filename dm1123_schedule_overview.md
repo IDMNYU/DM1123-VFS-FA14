@@ -52,51 +52,48 @@
     <tr>
         <td>7</td>
         <td>Oct 14<br><strong><i>NO Class: NYU Fall Recess</i></strong></td>
-        <td>Oct 16<br><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><strong>LOGO 2nd Draft (Groups A &amp; B)</strong></a></td>
+        <td>Oct 16<br><a href="weekly_detail/dm1123_weekly_detail_wk7_oct14.md"><strong>LOGO 2nd Draft (Groups A)</strong></a></td>
     </tr>
     <tr>
         <td>8</td>
-        <td>Oct 21<br>Screenings</td>
-        <td>Oct 23<br><strong>LOGO FINAL (Group A)</strong></td>
+        <td>Oct 21<br><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md"><strong>LOGO 2nd Draft (Groups B)</strong></a></td>
+        <td>Oct 23<br><strong>Screenings</strong></td>
     </tr>
     <tr>
         <td>9</td>
-        <td>Oct 28<br><strong>LOGO FINAL (Group B)</strong></td>
+        <td>Oct 28<br><strong>LOGO FINAL (Groups A & B)</strong></td>
         <td>Oct 30<br>PHYSICAL APP 1st Draft
-(Group A)</td>
+(Groups A & B)</td>
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 4<br><i>Last Day to Withdraw</i><br>PHYSICAL APP 1st Draft
-(Group B)</td>
-        <td>Nov 6<br>PHYSICAL APP 2nd Draft</td>
+        <td>Nov 4<br><i>Last Day to Withdraw</i><br>PHYSICAL APP 2nd Draft (Group A)</td>
+        <td>Nov 6<br>PHYSICAL APP 2nd Draft (Group B)</td>
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br>INTERFACE Wireframes</td>
-        <td>Nov 13<br>INTERFACE High Fidelity Prototypes (Group A)</td>
+        <td>Nov 11<br>INTERFACE Wireframes (Groups A & B)</td>
+        <td>Nov 13<br>INTERFACE Wireframes 2nd Draft (Groups A & B)</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 18<br>INTERFACE High Fidelity Prototypes (Group B)</td>
-        <td>Nov 20<br><strong>INTERFACE FINAL
-(Group A)</strong></td>
+        <td>Nov 18<br>INTERFACE High Fidelity Prototypes (Group A)</td>
+        <td>Nov 20<br><strong>INTERFACE High Fidelity Prototypes (Group B)</strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong>INTERFACE FINAL 
-(Group B)</strong></td>
+        <td>Nov 25<br><strong>INTERFACE FINAL (Groups A & B)</strong></td>
         <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br>PHYSICAL APP FINAL (Group A)</td>
-        <td>Dec 4<br>PHYSICAL APP FINAL (Group B)</td>
+        <td>Dec 2<br>PHYSICAL APP FINAL (Groups A & B)</td>
+        <td>Dec 4<br>PDF or BOOK 1st DRAFT</td>
     </tr>
     <tr>
         <td>15</td>
         <td>Dec 9<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br>PDF or BOOK 1st DRAFT<strong><i><br>Make Up Class for Oct. 9</i></strong></td>
+        <td>Dec 11<br>PDF or BOOK 2nd DRAFT<strong><i><br>Make Up Class for Oct. 9</i></strong></td>
     </tr>
     <tr>
         <td>16</td>
