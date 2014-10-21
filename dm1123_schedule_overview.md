@@ -57,7 +57,7 @@
     <tr>
         <td>8</td>
         <td>Oct 21<br><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md"><strong>LOGO 2nd Draft (Groups B)</strong></a></td>
-        <td>Oct 23<br><strong>Screenings</strong></td>
+        <td>Oct 23<br><a href="weekly_detail/dm1123_weekly_detail_wk8_oct21.md"><strong>Screenings</strong></a></td>
     </tr>
     <tr>
         <td>9</td>
