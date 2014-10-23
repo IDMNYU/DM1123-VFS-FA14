@@ -29,12 +29,8 @@
      <ul>
    <li>Discuss midterm critique: final logo project</li>
    <li>Illustrator Review: Pen Tool</li>
-    <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul></td>
-  <td valign="top" width="48%"><strong>Screenings</strong></a>
-  <ul>
-  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
-  </ul></td>
+  <td valign="top" width="48%"><strong>Screening: Command X, Season 2</strong></a></td>
  
 </tr>
 
