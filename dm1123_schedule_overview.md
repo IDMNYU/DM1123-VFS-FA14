@@ -63,7 +63,7 @@
         <td>9</td>
         <td valign="top">Oct 28<br><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md"><strong>LOGO FINAL (Groups A & B)</strong></a><br>
         <a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a> (on basecamp under files)<br><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a></td>
-        <td valign="top">Oct 30<br><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">PHYSICAL APP 1st Draft (Groups A & B)</a></td>
+        <td valign="top">Oct 30<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk9_oct28.md">PHYSICAL APP 1st Draft (Groups A & B)</a></strong></td>
     </tr>
     <tr>
         <td>10</td>
