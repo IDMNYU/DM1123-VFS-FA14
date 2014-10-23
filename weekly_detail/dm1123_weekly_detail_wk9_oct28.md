@@ -1,0 +1,92 @@
+# DM-UY 1123 Visual Foundation Studio
+
+![NYU](http://ws2.polishedsolid.com/de/nyu_soe_logo.png)
+#### Integrated Digital Media • Technology, Culture &amp; Society Department
+
+    De Angela L. Duff • Fall 2014 • 3 credit hrs
+    Tuesdays & Thursdays • 4:30-6:20PM • Room: 2MTC MAGNET 811 
+
+---
+
+## Schedule Weekly Detail
+
+<table>
+<tr>
+<td>wk</td>
+<td>Tuesdays (due on date listed)</td>
+<td>Thursdays (due on date listed)</td>
+</tr>
+<!-- dates -->
+<tr>
+  <td valign="top">9</td>
+  <td valign="top"><strong>Oct 28</strong></td>
+  <td valign="top"><strong>Oct 30</strong></td>
+</tr>
+<!-- class -->
+<tr>
+  <td valign="top" width="4%">class</td>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO FINAL DUE </a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a>
+     <ul>
+    <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a> (on basecamp under files)</li>
+    <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a> (on basecamp under files)</li>
+  </ul></td>
+  <td valign="top" width="48%"><strong>PHYSICAL APP 1st Draft <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></strong>
+  <ul>
+  <li>Show &amp; Tells</li>
+      <ul>
+      <li>Peter Saville: Shira and Melisa</li>
+      <li>Chip Kidd: Alice and Tasmiur</li>
+      <li>Art Chantry: Larysa and Shira</li>
+      </ul>
+    <li>Discuss next class homework</li>
+  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li></td>
+ </ul>
+</tr>
+
+<!-- read -->
+<tr>
+  <td valign="top">read</td>
+  <td valign="top"></td>
+  <td valign="top">
+  <strong>Graphic Design: The New Basics</strong>
+  <ul>
+  <li>Rules and Randomness</li>
+  </ul>  
+</td>
+</tr>
+
+<!-- do -->
+<tr>
+  <td valign="top">do</td>
+  <td valign="top">
+  <ul>
+ <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO FINAL DUE</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+ <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
+ <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a></li>
+  <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a></li>
+</ul>
+
+  <strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <ul>
+  <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
+  <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
+  <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
+  <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
+  </ul></td>
+  <td valign="top">
+  <ul>
+   <li><strong><a href="../projects/dm1123_vfs_projects_logo.md">LOGO Final Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+   <li>Add the name of your personal brand, along with a very brief description (1 to 2 sentences max) of what your logo is for to your wordpress posts for your 1st, 2nd and final drafts</li>
+  <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  </ul></td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
+

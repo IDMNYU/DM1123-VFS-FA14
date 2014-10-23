@@ -31,7 +31,10 @@
    <li>Illustrator Review: Pen Tool</li>
     <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
   </ul></td>
-  <td valign="top" width="48%"><strong>Screenings</strong></a></td>
+  <td valign="top" width="48%"><strong>Screenings</strong></a>
+  <ul>
+  <li><a href="../projects/dm1123_vfs_tickets_to_leave.md">Ticket to leave</a></li>
+  </ul></td>
  
 </tr>
 
