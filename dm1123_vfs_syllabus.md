@@ -107,7 +107,7 @@ Students will conduct self assessments as well as be evaluated by the professor 
 
 * 15% class exercises and tickets to leave
 * 15% homework assignments
-* 10% final logo
+* 10% midterm (final logo)
 * 10% final interface 
 * 10% final physical application
 * 10% end of semester portfolio PDF (or book for extra credit)
