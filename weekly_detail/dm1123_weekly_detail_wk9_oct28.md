@@ -35,7 +35,7 @@
     <li>Why did we screen AIGA's Command X, Season 2? The same reason you should watch Project Runway.</li>
     <li>Make sure you put your name in any file you send someone else</li>
     <li>Saving Files as PDFs (from any print dialog box)</li>
-    <li>The Mac is Not a Typewriter</li>
+    <li><a href="http://www.amazon.com/Mac-Not-Typewriter-2nd/dp/0201782634/ref=sr_1_1?s=books&ie=UTF8&qid=1414525229&sr=1-1&keywords=mac+is+not+a+typewriter">The Mac is Not a Typewriter</a> by Robin Williams</li>
       <ul>
       <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193883199/mac_is_not_a_typewriter_underlining.pdf" target="_blank">Underlining</a></li>
       <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193883198/mac_is_not_a_typewriter_one_space.pdf" target="_blank">One Space After Periods</a></li>
