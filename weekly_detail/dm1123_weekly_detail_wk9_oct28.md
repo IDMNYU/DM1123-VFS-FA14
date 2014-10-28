@@ -28,7 +28,7 @@
    <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md">MIDTERM: LOGO FINAL DUE </a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a>
      <ul>
      <li>Attendance is Mandatory</li>
-     <li>Class Critique</li>
+     <li>Review rules of the <a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/dm1123_vfs_syllabus.md">Class Critique</a></li>
       <ul><li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a> (on basecamp under files)</li>
     <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a> (on basecamp under files)</li>
     </ul>
