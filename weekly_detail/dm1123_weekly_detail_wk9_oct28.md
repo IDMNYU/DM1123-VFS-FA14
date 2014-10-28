@@ -32,6 +32,7 @@
       <ul><li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625822/VFS_Logo_Rubric.pdf" target="_blank">VFS Logo Rubric</a> (on basecamp under files)</li>
     <li><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/193625823/VFS_logo_self_reflection.pdf" target="_blank">VFS Logo Self Reflection</a> (on basecamp under files)</li>
     </ul>
+    <li>Discuss next class homework</li>
     <li>Why did we screen AIGA's Command X, Season 2? The same reason you should watch Project Runway.</li>
     <li>Make sure you put your name in any file you send someone else</li>
     <li>Saving Files as PDFs (from any print dialog box)</li>
@@ -44,6 +45,7 @@
   </ul></td>
   <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Groups A &amp; B)</a>
   <ul>
+  <li>RGB vs. CMYK</li>
   <li>Show &amp; Tells</li>
       <ul>
       <li>Peter Saville: Shira and Melisa</li>
