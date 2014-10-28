@@ -30,7 +30,7 @@
    <li>Discuss midterm critique: final logo project</li>
    <li>Illustrator Review: Pen Tool</li>
   </ul></td>
-  <td valign="top" width="48%"><strong>Screening: Command X, Season 2</strong></a></td>
+  <td valign="top" width="48%"><strong>Screening: AIGA's Command X, Season 2</strong></a></td>
  
 </tr>
 

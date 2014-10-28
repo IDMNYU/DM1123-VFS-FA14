@@ -71,7 +71,7 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br>INTERFACE Wireframes (Groups A & B)</td>
+        <td>Nov 11<br>INTERFACE Wireframes (Groups A & B)<br>Guest Speaker: Damien Correll (tentative date)</td>
         <td>Nov 13<br>INTERFACE Wireframes 2nd Draft (Groups A & B)</td>
     </tr>
     <tr>
