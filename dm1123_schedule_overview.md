@@ -77,7 +77,7 @@
     <tr>
         <td>12</td>
         <td>Nov 18<br>INTERFACE High Fidelity Prototypes (Group A)</td>
-        <td>Nov 20<br><strong>INTERFACE High Fidelity Prototypes (Group B)</strong></td>
+        <td>Nov 20<br>INTERFACE High Fidelity Prototypes (Group B)</td>
     </tr>
     <tr>
         <td>13</td>
@@ -86,13 +86,13 @@
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br>PHYSICAL APP FINAL (Groups A & B)</td>
+        <td>Dec 2<br><strong>PHYSICAL APP FINAL (Groups A & B)</strong></td>
         <td>Dec 4<br>PDF or BOOK 1st DRAFT</td>
     </tr>
     <tr>
         <td>15</td>
         <td>Dec 9<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br>PDF or BOOK 2nd DRAFT<strong><i><br>Make Up Class for Oct. 9</i></strong></td>
+        <td>Dec 11<br><strong><i>Make Up Class for Oct. 9</i></strong><br>PDF or BOOK 2nd DRAFT</td>
     </tr>
     <tr>
         <td>16</td>
