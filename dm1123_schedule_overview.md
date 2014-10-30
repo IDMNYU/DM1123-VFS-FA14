@@ -71,13 +71,13 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br><strong>INTERFACE Wireframes (Groups A & B)<br>Guest Speaker: Damien Correll (tentative date)</strong></td>
-        <td>Nov 13<br><strong>INTERFACE Wireframes 2nd Draft (Groups A & B)</strong></td>
+        <td>Nov 11<br>INTERFACE Wireframes (Groups A & B)<br>Guest Speaker: Damien Correll (tentative date)</td>
+        <td>Nov 13<br>INTERFACE Wireframes 2nd Draft (Groups A & B)</td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 18<br><strong>INTERFACE High Fidelity Prototypes (Groups A & B)</strong></td>
-        <td>Nov 20<br><strong>INTERFACE High Fidelity Prototypes (Groups A & B)</strong></td>
+        <td>Nov 18<br>INTERFACE High Fidelity Prototypes (Group A)</td>
+        <td>Nov 20<br><strong>INTERFACE High Fidelity Prototypes (Group B)</strong></td>
     </tr>
     <tr>
         <td>13</td>
