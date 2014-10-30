@@ -27,9 +27,12 @@
   <td valign="top" width="4%">class</td>
    <td valign="top" width="48%"><strong><i>Last Day to Withdraw</i><br><a href="../projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
      <ul>
-    
+    <li>Screening (if there is time)</li>
   </ul></td>
-  <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group B)</a></td>
+  <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group B)</a>
+  <ul>
+    <li>Screening (if there is time)</li>
+  </ul></td>
  </ul>
 </tr>
 
