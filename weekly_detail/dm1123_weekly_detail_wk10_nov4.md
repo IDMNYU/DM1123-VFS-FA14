@@ -25,7 +25,7 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_logo.md"><i>Last Day to Withdraw</i><br>PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_pa.md"><i>Last Day to Withdraw</i><br>PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a>
      <ul>
     
   </ul></td>
