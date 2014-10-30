@@ -45,7 +45,7 @@
   </ul></td>
   <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Groups A &amp; B)</a>
   <ul>
-  <li>RGB vs. CMYK</li>
+  <li><a href="" target="_blank">RGB vs. CMYK</a></li>
   <li>Show &amp; Tells</li>
       <ul>
       <li>Peter Saville: Shira and Melisa</li>
