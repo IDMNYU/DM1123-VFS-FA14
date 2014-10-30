@@ -66,8 +66,8 @@
     </tr>
     <tr>
         <td>10</td>
-        <td>Nov 4<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">PHYSICAL APP 2nd Draft (Group A)</a></td>
-        <td>Nov 6<br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md">PHYSICAL APP 2nd Draft (Group B)</a></td>
+        <td>Nov 4<br><i>Last Day to Withdraw</i><br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md"><strong>PHYSICAL APP 2nd Draft (Group A)</strong></a></td>
+        <td>Nov 6<br><a href="weekly_detail/dm1123_weekly_detail_wk10_nov4.md"><strong>PHYSICAL APP 2nd Draft (Group B)</a></strong></td>
     </tr>
     <tr>
         <td>11</td>
