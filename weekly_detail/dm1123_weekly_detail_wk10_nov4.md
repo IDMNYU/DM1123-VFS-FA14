@@ -39,7 +39,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a></a></li>
+ <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
     <ul>
     <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
