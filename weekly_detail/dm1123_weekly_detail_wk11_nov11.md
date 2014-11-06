@@ -32,8 +32,11 @@
 <!-- read -->
 <tr>
   <td valign="top">read</td>
-  <td valign="top"><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/194478849/uxpin_the_guide_to_wireframing.pdf" target="_blank">UXPin's Guide to Wireframing</a> (on basecamp under files)</td>
-  <td valign="top"></td>
+  <td valign="top"><strong><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/194478849/uxpin_the_guide_to_wireframing.pdf" target="_blank">UXPin's Guide to Wireframing</a> (on basecamp under files)</strong></td>
+  <td valign="top"><strong>Type on Screen</strong>
+  <ul>
+  <li>04: Type &amp; Interface</li>
+  </ul></td>
 </tr>
 
 <!-- do -->
