@@ -71,8 +71,8 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br><strong>Guest Speaker: Damien Correll (tentative date)</strong><br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes (Groups A & B)</a></td>
-        <td>Nov 13<br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 2nd Draft (Groups A & B)</a></td>
+        <td>Nov 11<br><strong>Guest Speaker: Damien Correll (tentative date)<br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes (Groups A & B)</a></strong></td>
+        <td>Nov 13<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 2nd Draft (Groups A & B)</a></strong></td>
     </tr>
     <tr>
         <td>12</td>
