@@ -10,7 +10,7 @@
 
 
 ## PROJECT: INTERFACE
-Using a combination of Illustrator, Photoshop, and/or InDesign, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
+Using a combination of Illustrator and/or Photoshop, apply your brand to a digital interface of your choice (game, website, mobile application, etc).
 
 #### INTERFACE Wireframes    
 Post on your class website in grayscale (includes black and white) with interface-wireframes category. 
