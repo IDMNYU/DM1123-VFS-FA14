@@ -97,6 +97,12 @@
   * [0to255] (http://0to255.com)
   * [Color Meaning] (http://color-wheel-pro.com/color-meaning.html)
 
+* **RGB vs. CMYK**
+  * In photoshop, you'll find it under Image -> Mode
+  * In illustrator: http://blog.brandisty.com/here-s-how-to-properly-convert-color-spaces-in-illustrator/
+  * Here's more info about why the color shifts:
+http://www.dpbestflow.org/color/color-space-and-color-profiles
+
 * **Typography**
   * Thinking with Type – http://thinkingwithtype.com
   * Fount - http://fount.artequalswork.com
