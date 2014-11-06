@@ -71,7 +71,9 @@
     </tr>
     <tr>
         <td>11</td>
-        <td>Nov 11<br><strong>Guest Speaker: Damien Correll (tentative date)<br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes (Groups A & B)</a></strong></td>
+        <td>Nov 11<br><strong>Extra Credit: TCS Lecture by Jonathan Fetter, “How to Draw the Invisible"</strong><br>
+2:30pm-4:00pm, reception to follow<br>
+Pfizer Auditorium, 5 MetroTech Center, Brooklyn NY 11201<br><br><strong>Guest Speaker: Damien Correll (tentative date)<br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes (Groups A & B)</a></strong></td>
         <td>Nov 13<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 2nd Draft (Groups A & B)</a></strong></td>
     </tr>
     <tr>

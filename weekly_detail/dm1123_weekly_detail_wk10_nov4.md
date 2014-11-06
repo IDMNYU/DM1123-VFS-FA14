@@ -28,7 +28,7 @@
    <td valign="top" width="48%"><strong><i>Last Day to Withdraw</i><br><a href="../projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A)</a></td>
   <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_pa.md">PHYSICAL APP 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group B)</a>
   <ul>
-    <li>Extra Credit: TCS Lecture by Jonathan Fetter, “How to Draw the Invisible"<br>Tuesday November 11, 2014<br> 
+    <li>Discuss Extra Credit: TCS Lecture by Jonathan Fetter, “How to Draw the Invisible"<br>Tuesday November 11, 2014<br> 
 2:30pm-4:00pm, reception to follow<br>
 Pfizer Auditorium, 5 MetroTech Center, Brooklyn NY 11201</li>
   </ul></td>
