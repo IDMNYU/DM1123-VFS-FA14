@@ -33,20 +33,16 @@
 <!-- do -->
 <tr>
   <td valign="top">do</td>
-  <td valign="top">
-  <ul>
- <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 2nd Draft</a></strong></li>
-  <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
+  <td valign="top"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 2nd Draft</a></strong>
+   <ul><li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)</li>
     <ul>
     <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
     <li>Lynda.com: Illustrator CC Essential Training with Justin Seeley</li>
     <li>Lynda.com: Photoshop CC Essential Training with Julieanne Kost (Start with 7: Photoshop Essentials)</li>
     <li>Lynda.com: InDesign CC Essential Training with David Blatner</li>
-    </ul>
-  </ul></td>
-  <td valign="top">
+    </ul></ul></td>
+  <td valign="top"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE High Fidelity Prototypes</a>
   <ul>
-   <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE High Fidelity Prototypes</a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
