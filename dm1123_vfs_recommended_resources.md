@@ -130,12 +130,12 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
 * **Sitemaps**
   * http://quirktools.com (smaps) 
 
-* **Wireframes / schematics** 
+* **Wireframes / Schematics** 
   * Illustrator
   * OmniGraffle
-  * [Moqups] http://moqups.com
-  * [Quirktools] http://quirktools.com (wires)
-  * [Balsamiq] http://balsamiq.com
+  * **[Moqups] (http://moqups.com)**
+  * [Quirktools] (http://quirktools.com) (wires)
+  * [Balsamiq] (http://balsamiq.com)
   * [UX Pin's The Guide To Wireframing] (http://uxpin.com/guide-to-wireframing.html)
   * [How to Read a Wireframe] (http://blog.fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf)
   * [A collection of wireframes] (http://wireframes.tumblr.com)
@@ -146,4 +146,5 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
     * HTML5/CSS3 Framework: Foundation or Bootstrap
   * Keynote/Powerpoint
   * [Axure] (http://www.axure.com)
+  * [UXPin] (http://uxpin.com)
   * [Keynotopia] (http://keynotopia.com) (not recommended because of cost, but wanted you to know about it)
