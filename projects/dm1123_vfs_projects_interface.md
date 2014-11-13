@@ -21,7 +21,7 @@ Post on your class website in grayscale (includes black and white) with interfac
 
 #### INTERFACE High-Fidelity Prototypes  
 * Post a clickable prototype on your class website with an inteface-prototypes category (or on basecamp. If you post on basecamp, link to your basecamp message from wordpress).
-  * Consult the readings and/or VFS <a href="dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
+  * Consult the readings and/or VFS <a href="../dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
 
 * Create 3 different versions of your interface as high fidelity prototypes in color
 
