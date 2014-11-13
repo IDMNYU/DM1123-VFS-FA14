@@ -73,22 +73,22 @@
         <td>11</td>
         <td>Nov 11<br><strong>Extra Credit: TCS Lecture by Jonathan Fetter<br>“How to Draw the Invisible"</strong><br>
 2:30pm-4:00pm, reception to follow<br>
-Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a href="http://damiencorrell.com/" target="_blank">Damien Correll</a><br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft (Groups A & B)</a></strong></td>
-        <td>Nov 13<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft (Groups A & B)</a></strong></strong></td>
+Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a href="http://damiencorrell.com/" target="_blank">Damien Correll</a><br><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft</a></strong></td>
+        <td>Nov 13<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk11_nov11.md">INTERFACE Wireframes 1st Draft</a></strong></strong></td>
     </tr>
     <tr>
         <td>12</td>
-        <td>Nov 18<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk18_nov12.md">INTERFACE Wireframes 2nd Draft (Groups A & B)</a></strong></td>
-        <td>Nov 20<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk18_nov12.md">INTERFACE High Fidelity Prototypes (Groups A & B)</a></strong></td>
+        <td>Nov 18<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk18_nov12.md">INTERFACE Wireframes 2nd Draft</a></strong></td>
+        <td>Nov 20<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk18_nov12.md">INTERFACE High Fidelity Prototypes</a></strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong>INTERFACE FINAL (Groups A & B)</strong></td>
+        <td>Nov 25<br><strong>INTERFACE FINAL</strong></td>
         <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br><strong>PHYSICAL APP FINAL (Groups A & B)</strong></td>
+        <td>Dec 2<br><strong>PHYSICAL APP FINAL</strong></td>
         <td>Dec 4<br>PDF or BOOK 1st DRAFT</td>
     </tr>
     <tr>
