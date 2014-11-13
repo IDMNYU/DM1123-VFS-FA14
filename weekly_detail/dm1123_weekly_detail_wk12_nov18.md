@@ -18,25 +18,16 @@
 </tr>
 <!-- dates -->
 <tr>
-  <td valign="top">11</td>
-  <td valign="top"><strong>Nov 11</strong></td>
-  <td valign="top"><strong>Nov 13</strong></td>
+  <td valign="top">12</td>
+  <td valign="top"><strong>Nov 18</strong></td>
+  <td valign="top"><strong>Nov 20</strong></td>
 </tr>
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%"><strong><i>Guest Speaker: Damien Correll (tentative date)</i><br><a href="../projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 1st Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A &amp; B)</a></td>
-  <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group A &amp; B)</a></td>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Group A &amp; B)</a></td>
+  <td valign="top" width="48%"><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE High Fidelity Prototypes (Groups A &amp; B)</a></strong> <a href="../projects/dm1123_vfs_groups.md">(Group A &amp; B)</a></td>
  </ul>
-</tr>
-<!-- read -->
-<tr>
-  <td valign="top">read</td>
-  <td valign="top"><strong><a href="https://polishedsolid.basecamphq.com/projects/12353075/file/194478849/uxpin_the_guide_to_wireframing.pdf" target="_blank">UXPin's Guide to Wireframing</a></strong><br>(on basecamp under files)</td>
-  <td valign="top"><strong>Type on Screen</strong>
-  <ul>
-  <li>04: Type &amp; Interface</li>
-  </ul></td>
 </tr>
 
 <!-- do -->
@@ -44,7 +35,7 @@
   <td valign="top">do</td>
   <td valign="top">
   <ul>
- <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 1st Draft</a></strong><br><a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
+ <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 2nd Draft</a></strong><br><a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
     <ul>
     <li>Lynda.com: WordPress Essential Training with Morten Rand-Hendriksen</li>
@@ -55,7 +46,7 @@
   </ul></td>
   <td valign="top">
   <ul>
-   <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE Wireframes 1st Draft 2nd Draft</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></a></li>
+   <li><strong><a href="https://github.com/IDMNYU/DM1123-VFS-FA14/blob/master/projects/dm1123_vfs_projects_interface.md">INTERFACE High Fidelity Prototypes (Groups A &amp; B)</a></strong> <a href="../projects/dm1123_vfs_groups.md" target="_blank">(Groups A &amp; B)</a></a></li>
   <li><strong>Lynda.com Tutorials</strong> (as needed, based on your current skill levels in these programs.)
   </ul></td>
 </tr>
