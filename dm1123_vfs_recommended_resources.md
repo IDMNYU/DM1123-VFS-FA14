@@ -136,9 +136,14 @@ http://www.dpbestflow.org/color/color-space-and-color-profiles
   * **[Moqups] (http://moqups.com)**
   * [Quirktools] (http://quirktools.com) (wires)
   * [Balsamiq] (http://balsamiq.com)
+    * [mockupstogo.net] (http://mockupstogo.net)
   * [UX Pin's The Guide To Wireframing] (http://uxpin.com/guide-to-wireframing.html)
   * [How to Read a Wireframe] (http://blog.fuzzymath.com/wp-content/uploads/2011/07/Fuzzy-Math-How-to-read-a-wireframe.pdf)
-  * [A collection of wireframes] (http://wireframes.tumblr.com)
+  * [Flickr: I ♥ Wireframes] (http://flickr.com/groups/ilovewireframes)
+  * [Flickr: A collection of wireframes] (http://wireframes.tumblr.com)
+  * [Web Without Words] (http://webwithoutwords.com)
+  * [Wireframe Showcase] (http://wireframeshowcase.com)
+  * [Wireframes Magazine] (http://wireframes.linowski.ca/tag/wireframe)
   * [An argument for sketched sitemaps and wireframes/schematics] (http://www.slideshare.net/pubsmith/sketching-interfaces-workshop-interactions12-dublin)
 
 * **Clickable Prototypes**
