@@ -87,3 +87,9 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
+
+#### Letter to Next Cohort
+
+*Email your letter to next cohort as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.*
+
+Write a letter to the next class giving them advice on how to reach their learning goals and get value out of this course.

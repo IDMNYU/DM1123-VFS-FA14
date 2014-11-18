@@ -99,6 +99,6 @@ Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a
     <tr>
         <td>16</td>
         <td colspan="2">Dec 12-17<br><strong>INDIVIDUAL ONE on ONES (To Be Scheduled)<br> 
-PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</strong></td>
+<strong><a href="projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">PDF or Book, Dropbox Link, Letter to Next Cohort & Final Assessment</a></strong></td>
     </tr>
 </table>
