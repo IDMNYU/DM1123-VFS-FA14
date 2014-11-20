@@ -79,11 +79,11 @@ Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a
     <tr>
         <td>12</td>
         <td>Nov 18<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">INTERFACE Wireframes 2nd Draft</a></strong></td>
-        <td>Nov 20<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">INTERFACE High Fidelity Prototypes</a></strong></td>
+        <td>Nov 20<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk12_nov18.md">INTERFACE High-Fidelity Prototype 1st Draft</a></strong></td>
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong>INTERFACE FINAL</strong></td>
+        <td>Nov 25<br><strong><a href="dm1123_weekly_detail_wk13_nov25.md" target="_blank">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
         <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
