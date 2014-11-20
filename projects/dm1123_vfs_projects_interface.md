@@ -19,15 +19,15 @@ Post on your class website in grayscale (includes black and white) with interfac
 * Every, single element needs to be accounted for including controls, text, images, videos, and supporting graphics. 
 * Do not use Lorem Ipsum for text. Use Real Text.
 
-#### INTERFACE High-Fidelity Prototypes  
-* Post a clickable prototype on your class website with an inteface-prototypes category (or on basecamp. If you post on basecamp, link to your basecamp message from wordpress).
+#### INTERFACE High-Fidelity Wireframes  
+* Create 3 different versions of your interface as high fidelity wireframes in color
+* Post on your class website with an inteface-hifi-wireframe
+
+#### INTERFACE Final: High-Fidelity Prototype 
+* Refine selection
+* Post a clickable prototype on your class website with an inteface-final category (or on basecamp. If you post on basecamp, link to your basecamp message from wordpress).
   * Consult the readings and/or VFS <a href="../dm1123_vfs_recommended_resources.md">resources</a> page for applications to use for prototypes.
 
-* Create 3 different versions of your interface as high fidelity prototypes in color
-
-#### INTERFACE Final 
-* Post on your class website with an inteface-final category. 
-* Refine selection
 
 
 
