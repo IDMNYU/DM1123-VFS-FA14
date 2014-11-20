@@ -83,7 +83,7 @@ Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong><a href="dm1123_weekly_detail_wk13_nov25.md" target="_blank">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
+        <td>Nov 25<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md" target="_blank">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
         <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
