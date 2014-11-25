@@ -83,18 +83,18 @@ Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a
     </tr>
     <tr>
         <td>13</td>
-        <td>Nov 25<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md" target="_blank">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
+        <td>Nov 25<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk13_nov25.md">INTERFACE Final: High-Fidelity Prototype</a></strong></td>
         <td>Nov 27<br><strong><i>NO CLASS: Thanksgiving Holiday</i></strong></td>
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md" target="_blank">PHYSICAL APP FINAL</a></strong></td>
-        <td>Dec 4<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md" target="_blank">PDF or BOOK 1st DRAFT</a></strong></td>
+        <td>Dec 2<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">PHYSICAL APP FINAL</a></strong></td>
+        <td>Dec 4<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md">PDF or BOOK 1st DRAFT</a></strong></td>
     </tr>
     <tr>
         <td>15</td>
         <td>Dec 9<br><strong><i>SoE UG Reading Day</i></strong></td>
-        <td>Dec 11<br><strong><i>Make Up Class for Oct. 9</i></strong><br>PDF or BOOK 2nd DRAFT</td>
+        <td>Dec 11<br><strong><i>Make Up Class for Oct. 9</i></strong><br><a href="weekly_detail/dm1123_weekly_detail_wk14_dec9.md">PDF or BOOK 2nd DRAFT</a></td>
     </tr>
     <tr>
         <td>16</td>
