@@ -88,8 +88,8 @@ Pfizer Auditorium, 5 MetroTech Center, Brooklyn<br><br><strong>Guest Speaker: <a
     </tr>
     <tr>
         <td>14</td>
-        <td>Dec 2<br><strong>PHYSICAL APP FINAL</strong></td>
-        <td>Dec 4<br>PDF or BOOK 1st DRAFT</td>
+        <td>Dec 2<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md" target="_blank">PHYSICAL APP FINAL</a></strong></td>
+        <td>Dec 4<br><strong><a href="weekly_detail/dm1123_weekly_detail_wk14_dec2.md" target="_blank">PDF or BOOK 1st DRAFT</a></strong></td>
     </tr>
     <tr>
         <td>15</td>
