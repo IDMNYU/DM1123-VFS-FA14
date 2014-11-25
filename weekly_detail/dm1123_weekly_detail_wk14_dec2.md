@@ -25,8 +25,8 @@
 <!-- class -->
 <tr>
   <td valign="top" width="4%">class</td>
-   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_pa.md">PHYSICAL APP FINAL</a> Class Critique</strong></td>
-  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">PDF or BOOK 1st DRAFT</a> Class Critique</strong></td>
+   <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_projects_pa.md">PHYSICAL APP FINAL</a></strong> Class Critique</td>
+  <td valign="top" width="48%"><strong><a href="../projects/dm1123_vfs_end_of_semester_deliverables.md" target="_blank">PDF or BOOK 1st DRAFT</a> </strong> Class Critique</td>
  </ul>
 </tr>
 
