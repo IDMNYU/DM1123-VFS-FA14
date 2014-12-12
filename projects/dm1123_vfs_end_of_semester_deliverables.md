@@ -87,7 +87,29 @@ Make sure that any type in illustrator has been converted to outlines or include
 
 Make sure that images are included if they are not embedded within illustrator.
 
+#### FINAL SELF ASSESSMENT
 
+Email your final self assessment as a pdf to deangela.duff@nyu.edu. Do NOT put self assessments on basecamp, a public forum.
+
+Of Self
+
+How has your visual eye changed, since beginning this course? Evaluate your increased awareness and understanding of visual foundation principles, and your specific use of components (color, typography, image), composition, and concept.
+Describe what specific, visual foundation elements have begun to inform your other work.
+Also, specifically, evaluate the growth of your illustrator, photoshop, and indesign skills and other skillsets as it relates to this course.
+If your growth is not where you would like it to be, what specific steps will you take to improve your skills?
+What resources have you found to be specifically helpful to you for this course? And why?
+Did you accomplish your goals that you established at the outset of this course?
+What other things have you learned in this course?
+Of Classmates
+
+Which classmate(s) inspired you the most and why? Speak to particular project(s) they did.
+Of The Course
+
+What assignment(s) did you like the most and why?
+What assignment(s) did you like the least and why?
+What change(s) would you make to this class and why? Feedback re: required books
+Graphic Design: The New Basics
+Type On Screen
 #### Letter to Next Cohort
 
 *Email your letter as a pdf to deangela.duff@nyu.edu. Do NOT put letters on basecamp, a public forum.*
